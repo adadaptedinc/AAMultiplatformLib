@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
     spec.name                     = 'AAMultiplatformLib'
-    spec.version                  = '1.2.0'
+    spec.version                  = '1.2.1'
     spec.homepage                 = 'https://github.com/adadaptedinc/AAMultiplatformLib'
     spec.source                   = { :git => "https://github.com/adadaptedinc/AAMultiplatformLib.git", :tag => "#{spec.version}" }
     spec.authors                  = { "Brett Clifton" => "bclifton@adadapted.com", "Matthew Kruk" => "mkruk@adadapted.com" }

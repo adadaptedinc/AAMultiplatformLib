@@ -62,6 +62,10 @@ data class AddItContent(
 
     @Synchronized
     override fun itemFailed(item: AddToListItem, message: String) {
+        if (!handled) {
+            handled = true
+            payloadClient.markContentFailed(this, message)
+        }
         payloadClient.markContentItemFailed(this, item, message)
     }
 
