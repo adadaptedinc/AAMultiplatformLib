@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/bclifton/.gradle/caches/transforms-3/27479712d2e8d462fffbb7ecb5ed230d/transformed/core-1.2.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/bclifton/.gradle/caches/transforms-3/27479712d2e8d462fffbb7ecb5ed230d/transformed/core-1.2.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/bclifton/.gradle/caches/transforms-3/27479712d2e8d462fffbb7ecb5ed230d/transformed/core-1.2.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/layout-v21/notification_action.xml",
+        "source": "/Users/bclifton/.gradle/caches/transforms-3/27479712d2e8d462fffbb7ecb5ed230d/transformed/core-1.2.0/res/layout-v21/notification_action.xml"
+    }
+]

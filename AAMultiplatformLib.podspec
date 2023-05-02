@@ -1,11 +1,11 @@
 Pod::Spec.new do |spec|
     spec.name                     = 'AAMultiplatformLib'
-    spec.version                  = '1.2.1'
+    spec.version                  = '1.2.2'
     spec.homepage                 = 'https://github.com/adadaptedinc/AAMultiplatformLib'
     spec.source                   = { :git => "https://github.com/adadaptedinc/AAMultiplatformLib.git", :tag => "#{spec.version}" }
     spec.authors                  = { "Brett Clifton" => "bclifton@adadapted.com", "Matthew Kruk" => "mkruk@adadapted.com" }
     spec.license                  = { :type => "MIT", :file => "LICENSE" }
-    spec.summary                  = 'Official AdAdapted iOS Swift SDK'
+    spec.summary                  = 'Official AdAdapted iOS Multiplatform SDK'
     spec.description              = <<-DESC
       This SDK allows you to utilize AdAdapted's service platform for displaying ads, keyword intercepts, tracking events, and more.
                        DESC
