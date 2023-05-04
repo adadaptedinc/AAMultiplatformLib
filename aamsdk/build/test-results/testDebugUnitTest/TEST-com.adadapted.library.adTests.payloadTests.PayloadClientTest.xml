@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.adadapted.library.adTests.payloadTests.PayloadClientTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-04T19:48:07" hostname="MacBook-Pro.local" time="0.208">
+  <properties/>
+  <testcase name="markContentAcknowledged" classname="com.adadapted.library.adTests.payloadTests.PayloadClientTest" time="0.208"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
