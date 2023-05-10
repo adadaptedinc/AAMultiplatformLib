@@ -29,12 +29,12 @@ class PayloadClientTest {
         AALogger.disableAllLogging()
         EventClient.createInstance(MockEventAdapter, testTransporterScope)
         PayloadClient.createInstance(MockPayloadAdapter, EventClient, testTransporterScope)
+        EventClient.onSessionAvailable(mockSession)
     }
 
     @Test
     fun markContentAcknowledged() {
         val content = getTestAdditPayloadContent()
-        EventClient.onSessionAvailable(mockSession)
         PayloadClient.markContentAcknowledged(content)
         EventClient.onPublishEvents()
 
@@ -42,6 +42,90 @@ class PayloadClientTest {
             MockEventAdapter.publishedSdkEvents.any {event -> event.name == EventStrings.ADDIT_ADDED_TO_LIST }
             MockEventAdapter.publishedSdkEvents.any {event -> event.params.getValue("payload_id") == "testPayloadId"}
             MockEventAdapter.publishedSdkEvents.any {event -> event.params.getValue("source") == AddItContent.AddItSources.PAYLOAD}
+        }
+    }
+
+    @Test
+    fun markNonPayloadContentAcknowledged() {
+        val content = getTestAdditPayloadContent(isPayloadSource = false)
+        PayloadClient.markContentAcknowledged(content)
+        EventClient.onPublishEvents()
+        assertTrue {
+            MockEventAdapter.publishedSdkEvents.any {event -> event.name == EventStrings.ADDIT_ADDED_TO_LIST }
+            MockEventAdapter.publishedSdkEvents.any {event -> event.params.getValue("payload_id") == "testPayloadId"}
+            MockEventAdapter.publishedSdkEvents.any {event -> event.params.getValue("source") == ""}
+        }
+    }
+
+    @Test
+    fun markContentItemAcknowledged() {
+        val content = getTestAdditPayloadContent()
+        PayloadClient.markContentItemAcknowledged(content, getTestAddToListItem())
+        EventClient.onPublishEvents()
+
+        assertTrue {
+            MockEventAdapter.publishedSdkEvents.any {event -> event.name == EventStrings.ADDIT_ITEM_ADDED_TO_LIST }
+            MockEventAdapter.publishedSdkEvents.any {event -> event.params.getValue("payload_id") == "testPayloadId"}
+            MockEventAdapter.publishedSdkEvents.any {event -> event.params.getValue("item_name") == "testTitle"}
+        }
+    }
+
+    @Test
+    fun markContentDuplicate() {
+        val content = getTestAdditPayloadContent()
+        PayloadClient.markContentDuplicate(content)
+        EventClient.onPublishEvents()
+
+        assertTrue {
+            MockEventAdapter.publishedSdkEvents.any {event -> event.name == EventStrings.ADDIT_DUPLICATE_PAYLOAD }
+            MockEventAdapter.publishedSdkEvents.any {event -> event.params.getValue("payload_id") == "testPayloadId"}
+        }
+    }
+
+    @Test
+    fun markNonPayloadContentDuplicate() {
+        val content = getTestAdditPayloadContent(isPayloadSource = false)
+        PayloadClient.markContentDuplicate(content)
+        EventClient.onPublishEvents()
+        assertTrue {
+            MockEventAdapter.publishedSdkEvents.any {event -> event.name == EventStrings.ADDIT_DUPLICATE_PAYLOAD }
+            MockEventAdapter.publishedSdkEvents.any {event -> event.params.getValue("payload_id") == "testPayloadId"}
+        }
+    }
+
+    @Test
+    fun markContentFailed() {
+        val content = getTestAdditPayloadContent()
+        PayloadClient.markContentFailed(content, "testFail")
+        EventClient.onPublishEvents()
+
+        assertTrue {
+            MockEventAdapter.publishedSdkErrors.any {event -> event.code == EventStrings.ADDIT_CONTENT_FAILED }
+            MockEventAdapter.publishedSdkErrors.any {event -> event.message == "testFail" }
+        }
+    }
+
+    @Test
+    fun markNonPayloadContentFailed() {
+        val content = getTestAdditPayloadContent(isPayloadSource = false)
+        PayloadClient.markContentFailed(content, "testFail")
+        EventClient.onPublishEvents()
+
+        assertTrue {
+            MockEventAdapter.publishedSdkErrors.any {event -> event.code == EventStrings.ADDIT_CONTENT_FAILED }
+            MockEventAdapter.publishedSdkErrors.any {event -> event.message == "testFail" }
+        }
+    }
+
+    @Test
+    fun markContentItemFailed() {
+        val content = getTestAdditPayloadContent()
+        PayloadClient.markContentItemFailed(content, getTestAddToListItem(), "testItemFail")
+        EventClient.onPublishEvents()
+
+        assertTrue {
+            MockEventAdapter.publishedSdkErrors.any {event -> event.code == EventStrings.ADDIT_CONTENT_ITEM_FAILED }
+            MockEventAdapter.publishedSdkErrors.any {event -> event.message == "testItemFail" }
         }
     }
 
