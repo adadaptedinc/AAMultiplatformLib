@@ -11,3 +11,4 @@ aamsdk/build/classes/kotlin/iosX64/main/cinterop/aamsdk-cinterop-uikit.klib-buil
 aamsdk/build/classes/kotlin/iosX64/main/cinterop/aamsdk-cinterop-uikit.klib-build/natives/cstubs.bc
 .gradle/7.2/fileHashes/fileHashes.bin
 .gradle/7.2/executionHistory/executionHistory.bin
+*.lock
