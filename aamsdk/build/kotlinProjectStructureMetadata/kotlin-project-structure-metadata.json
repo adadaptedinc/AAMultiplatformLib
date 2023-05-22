@@ -35,6 +35,13 @@
         ]
       },
       {
+        "name": "iosSimulatorArm64ApiElements",
+        "sourceSet": [
+          "commonMain",
+          "iosMain"
+        ]
+      },
+      {
         "name": "iosX64ApiElements",
         "sourceSet": [
           "commonMain",

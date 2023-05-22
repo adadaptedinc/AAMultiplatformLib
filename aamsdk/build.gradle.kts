@@ -4,7 +4,7 @@ plugins {
     kotlin("multiplatform")
     id("com.android.library")
     id("convention.publication")
-    id("com.chromaticnoise.multiplatform-swiftpackage") version "2.0.3"
+    id("io.github.luca992.multiplatform-swiftpackage") version "2.1.1"
     kotlin("plugin.serialization") version "1.8.10"
 }
 
@@ -28,7 +28,8 @@ kotlin {
     val xcframework = XCFramework(libraryName)
     listOf(
         iosX64(),
-        iosArm64()
+        iosArm64(),
+        iosSimulatorArm64()
     ).forEach {
         it.binaries.framework(libraryName) {
             xcframework.add(this)
@@ -102,10 +103,16 @@ kotlin {
                 implementation("io.ktor:ktor-client-ios:$ktorVersion")
             }
         }
+        val iosSimulatorArm64Main by getting {
+            dependencies {
+                implementation("io.ktor:ktor-client-ios:$ktorVersion")
+            }
+        }
         val iosMain by creating {
             dependsOn(commonMain)
             iosX64Main.dependsOn(this)
             iosArm64Main.dependsOn(this)
+            iosSimulatorArm64Main.dependsOn(this)
             dependencies {
                 implementation("io.ktor:ktor-client-ios:$ktorVersion")
             }

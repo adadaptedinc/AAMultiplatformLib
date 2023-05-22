@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk"
+    name=":aamsdk"
+    type="LIBRARY"
+    maven="com.adadapted:aamsdk:"
+    gradle="7.1.3"
+    buildFolder="build"
+    bootClassPath="/Users/matthewkruk/Library/Android/sdk/platforms/android-33/android.jar:/Users/matthewkruk/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="debug"/>
+</lint-module>

@@ -4,12 +4,12 @@
 4
 5    <uses-sdk
 6        android:minSdkVersion="28"
-6-->/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml
+6-->/Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml
 7        android:targetSdkVersion="33" />
-7-->/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml
+7-->/Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml
 8
 9    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
-9-->/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml:3:5-78
-9-->/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml:3:22-76
+9-->/Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml:3:5-78
+9-->/Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml:3:22-76
 10
 11</manifest>

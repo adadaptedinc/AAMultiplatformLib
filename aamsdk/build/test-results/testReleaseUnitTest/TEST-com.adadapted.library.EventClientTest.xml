@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.adadapted.library.EventClientTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-19T14:58:38" hostname="MatthewdAdapted.attlocal.net" time="0.131">
+  <properties/>
+  <testcase name="assertEventClientEventsAreLoggedCorrectly" classname="com.adadapted.library.EventClientTest" time="0.131"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

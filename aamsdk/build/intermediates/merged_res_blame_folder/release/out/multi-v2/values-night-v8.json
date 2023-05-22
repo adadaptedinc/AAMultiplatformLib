@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/bclifton/.gradle/caches/transforms-3/bb66adc09753aabfe1883436e1308b3a/transformed/appcompat-1.1.0/res/values-night-v8/values-night-v8.xml",
+                    "source": "/Users/matthewkruk/.gradle/caches/transforms-3/bb66adc09753aabfe1883436e1308b3a/transformed/appcompat-1.1.0/res/values-night-v8/values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/bclifton/.gradle/caches/transforms-3/773d8221ecd5e2544b4e94b46910044b/transformed/material-1.2.1/res/values-night-v8/values-night-v8.xml",
+                    "source": "/Users/matthewkruk/.gradle/caches/transforms-3/773d8221ecd5e2544b4e94b46910044b/transformed/material-1.2.1/res/values-night-v8/values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -40,10 +40,10 @@
             ]
         },
         {
-            "outputFile": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/bclifton/.gradle/caches/transforms-3/bb66adc09753aabfe1883436e1308b3a/transformed/appcompat-1.1.0/res/values-night-v8/values-night-v8.xml",
+                    "source": "/Users/matthewkruk/.gradle/caches/transforms-3/bb66adc09753aabfe1883436e1308b3a/transformed/appcompat-1.1.0/res/values-night-v8/values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -60,7 +60,7 @@
                     }
                 },
                 {
-                    "source": "/Users/bclifton/.gradle/caches/transforms-3/773d8221ecd5e2544b4e94b46910044b/transformed/material-1.2.1/res/values-night-v8/values-night-v8.xml",
+                    "source": "/Users/matthewkruk/.gradle/caches/transforms-3/773d8221ecd5e2544b4e94b46910044b/transformed/material-1.2.1/res/values-night-v8/values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

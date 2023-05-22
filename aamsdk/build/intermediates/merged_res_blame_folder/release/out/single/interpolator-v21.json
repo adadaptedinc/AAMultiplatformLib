@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/interpolator-v21/mtrl_fast_out_slow_in.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/773d8221ecd5e2544b4e94b46910044b/transformed/material-1.2.1/res/interpolator-v21/mtrl_fast_out_slow_in.xml"
+        "merged": "/Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/interpolator-v21/mtrl_fast_out_linear_in.xml",
+        "source": "/Users/matthewkruk/.gradle/caches/transforms-3/773d8221ecd5e2544b4e94b46910044b/transformed/material-1.2.1/res/interpolator-v21/mtrl_fast_out_linear_in.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/interpolator-v21/mtrl_fast_out_linear_in.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/773d8221ecd5e2544b4e94b46910044b/transformed/material-1.2.1/res/interpolator-v21/mtrl_fast_out_linear_in.xml"
+        "merged": "/Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/interpolator-v21/mtrl_fast_out_slow_in.xml",
+        "source": "/Users/matthewkruk/.gradle/caches/transforms-3/773d8221ecd5e2544b4e94b46910044b/transformed/material-1.2.1/res/interpolator-v21/mtrl_fast_out_slow_in.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/interpolator-v21/mtrl_linear_out_slow_in.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/773d8221ecd5e2544b4e94b46910044b/transformed/material-1.2.1/res/interpolator-v21/mtrl_linear_out_slow_in.xml"
+        "merged": "/Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/interpolator-v21/mtrl_linear_out_slow_in.xml",
+        "source": "/Users/matthewkruk/.gradle/caches/transforms-3/773d8221ecd5e2544b4e94b46910044b/transformed/material-1.2.1/res/interpolator-v21/mtrl_linear_out_slow_in.xml"
     }
 ]

@@ -1,29 +1,29 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml:2:1-4:12
-INJECTED from /Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml:2:1-4:12
-INJECTED from /Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml:2:1-4:12
+ADDED from /Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml:2:1-4:12
+INJECTED from /Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml:2:1-4:12
+INJECTED from /Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml:2:1-4:12
 	package
-		ADDED from /Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml:2:11-42
-		INJECTED from /Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml
-		INJECTED from /Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml:2:11-42
+		INJECTED from /Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml:2:43-101
+		ADDED from /Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml:2:43-101
 uses-permission#com.google.android.gms.permission.AD_ID
-ADDED from /Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml:3:5-78
+ADDED from /Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml:3:5-78
 	android:name
-		ADDED from /Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml:3:22-76
+		ADDED from /Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml:3:22-76
 uses-sdk
-INJECTED from /Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml
-INJECTED from /Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml
-INJECTED from /Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml
-INJECTED from /Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml
-		ADDED from /Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml
-		INJECTED from /Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml
-		ADDED from /Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml
-		INJECTED from /Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml
