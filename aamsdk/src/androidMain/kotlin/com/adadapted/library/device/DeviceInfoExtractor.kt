@@ -34,8 +34,8 @@ actual class DeviceInfoExtractor(context: Context) {
             try {
                 Class.forName(AdvertisingIdClientName)
                 val info = contextRef?.let { getAdvertisingIdClientInfo(it) }
-                if (info != null) {
-                    mUdid = info.id
+                if (info != null && !info.id.isNullOrEmpty()) {
+                    mUdid = info.id ?: ""
                     mAllowRetargeting = (!info.isLimitAdTrackingEnabled)
                 } else {
                     mUdid = captureAndroidId(contextRef)

@@ -81,9 +81,9 @@ kotlin {
         }
         val androidMain by getting {
             dependencies {
-                implementation("com.google.android.material:material:1.2.1")
+                implementation("com.google.android.material:material:1.9.0")
                 implementation("io.ktor:ktor-client-android:$ktorVersion")
-                implementation("com.google.android.gms:play-services-ads-identifier:17.0.0")
+                implementation("com.google.android.gms:play-services-ads-identifier:18.0.1")
             }
         }
         val androidTest by getting {
