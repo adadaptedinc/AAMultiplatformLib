@@ -1,0 +1,200 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../aamsdk/1.2.2/aamsdk-1.2.2.module",
+    "group": "com.adadapted",
+    "module": "aamsdk",
+    "version": "1.2.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "iosArm64ApiElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "ios_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.8.10"
+          }
+        },
+        {
+          "group": "io.ktor",
+          "module": "ktor-client-ios",
+          "version": {
+            "requires": "2.2.3"
+          }
+        },
+        {
+          "group": "io.ktor",
+          "module": "ktor-client-core",
+          "version": {
+            "requires": "2.2.3"
+          }
+        },
+        {
+          "group": "io.ktor",
+          "module": "ktor-serialization-kotlinx-json",
+          "version": {
+            "requires": "2.2.3"
+          }
+        },
+        {
+          "group": "io.ktor",
+          "module": "ktor-client-content-negotiation",
+          "version": {
+            "requires": "2.2.3"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-datetime",
+          "version": {
+            "requires": "0.4.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk7",
+          "version": {
+            "requires": "1.8.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.6.1"
+          }
+        },
+        {
+          "group": "io.github.aakira",
+          "module": "napier",
+          "version": {
+            "requires": "2.6.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "aamsdk.klib",
+          "url": "aamsdk-iosarm64-1.2.2.klib",
+          "size": 351831,
+          "sha512": "1eb5d02d0321cf7eb4886710e109666a61ef79444e71bc32779557d8ee51ea908ff0afba8ffabaa783b87829c191043abcc34d93165d9923f14caba0be335b86",
+          "sha256": "9a84178743880835b9979d2f2bec2d3e48fedcd8fad1e7ac0b052f53461ebcf8",
+          "sha1": "28c0726778029816939b3485ff7e8b4fec7ffc83",
+          "md5": "44c15d8a82c6d526435972b95095836f"
+        },
+        {
+          "name": "aamsdk-cinterop-uikit.klib",
+          "url": "aamsdk-iosarm64-1.2.2-cinterop-uikit.klib",
+          "size": 7172,
+          "sha512": "9cac144e369fc6d5964971ef1b955aa453d715152b75ed4c8bf75851a7de05b6b34e507748f315e238d386c2b62985eb1817140babbbdb6b052b1742305bd480",
+          "sha256": "1b99bfd8b74b891e434d0acb7d138273151a585eb78fa98ae58c18cc489439b8",
+          "sha1": "546f5044924ee00f0d8ee0ce04cd76721d9ab961",
+          "md5": "0044801281d3c540032e371e79153808"
+        }
+      ]
+    },
+    {
+      "name": "iosArm64MetadataElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "ios_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.8.10"
+          }
+        },
+        {
+          "group": "io.ktor",
+          "module": "ktor-client-ios",
+          "version": {
+            "requires": "2.2.3"
+          }
+        },
+        {
+          "group": "io.ktor",
+          "module": "ktor-client-core",
+          "version": {
+            "requires": "2.2.3"
+          }
+        },
+        {
+          "group": "io.ktor",
+          "module": "ktor-serialization-kotlinx-json",
+          "version": {
+            "requires": "2.2.3"
+          }
+        },
+        {
+          "group": "io.ktor",
+          "module": "ktor-client-content-negotiation",
+          "version": {
+            "requires": "2.2.3"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-datetime",
+          "version": {
+            "requires": "0.4.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk7",
+          "version": {
+            "requires": "1.8.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.6.1"
+          }
+        },
+        {
+          "group": "io.github.aakira",
+          "module": "napier",
+          "version": {
+            "requires": "2.6.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "aamsdk-iosarm64-1.2.2-metadata.jar",
+          "url": "aamsdk-iosarm64-1.2.2-metadata.jar",
+          "size": 13894,
+          "sha512": "9005d9f5c7eb3197f4df3e5cb6e9bd933828d3b4a15c413421caa7ad1a91ffb0ab04989da6f0ac494f6674e8c746d436e4395b47a5f9579e7ab27a76b07f635e",
+          "sha256": "bcdf072dbdb3d3e0ba0ca7036de9b22ac542b601f1032de6c0c6725248bc5e34",
+          "sha1": "577ccc38e67e3b05e3bf6f03cf9230457c206c56",
+          "md5": "cb40670b57fc4361748105e29be269d4"
+        }
+      ]
+    }
+  ]
+}

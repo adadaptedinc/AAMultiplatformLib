@@ -8,6 +8,7 @@ import com.adadapted.library.atl.AddToListContent
 import com.adadapted.library.atl.AddToListItem
 import com.adadapted.library.payload.Payload
 import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.test.UnconfinedTestDispatcher
 import kotlinx.coroutines.test.setMain
 import kotlin.test.BeforeTest
@@ -15,6 +16,7 @@ import kotlin.test.Test
 import kotlin.test.assertEquals
 import kotlin.test.assertNull
 
+@OptIn(ExperimentalCoroutinesApi::class)
 class AdContentPublisherTest {
     private var testTransporter = UnconfinedTestDispatcher()
 
