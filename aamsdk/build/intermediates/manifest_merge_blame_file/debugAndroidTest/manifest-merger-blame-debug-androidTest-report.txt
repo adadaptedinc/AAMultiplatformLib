@@ -1,0 +1,47 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.adadapted.library.test" >
+4
+5    <uses-sdk
+5-->/Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5469635461253703617.xml:5:5-74
+6        android:minSdkVersion="28"
+6-->/Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5469635461253703617.xml:5:15-41
+7        android:targetSdkVersion="33" />
+7-->/Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5469635461253703617.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5469635461253703617.xml:11:5-15:76
+10        android:name="android.test.InstrumentationTestRunner"
+10-->/Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5469635461253703617.xml:11:22-75
+11        android:functionalTest="false"
+11-->/Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5469635461253703617.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5469635461253703617.xml:13:22-53
+13        android:label="Tests for com.adadapted.library.test"
+13-->/Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5469635461253703617.xml:15:22-74
+14        android:targetPackage="com.adadapted.library.test" />
+14-->/Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5469635461253703617.xml:12:22-72
+15
+16    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+16-->[:aamsdk] /Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-79
+16-->[:aamsdk] /Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-76
+17
+18    <application
+18-->/Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5469635461253703617.xml:7:5-9:19
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.2.0] /Users/matthewkruk/.gradle/caches/transforms-3/27479712d2e8d462fffbb7ecb5ed230d/transformed/core-1.2.0/AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:extractNativeLibs="false" >
+22        <uses-library android:name="android.test.runner" />
+22-->/Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5469635461253703617.xml:8:9-60
+22-->/Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5469635461253703617.xml:8:23-57
+23
+24        <meta-data
+24-->[com.google.android.gms:play-services-basement:17.0.0] /Users/matthewkruk/.gradle/caches/transforms-3/c83e858eec40817dd5e6213953833c94/transformed/play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+25            android:name="com.google.android.gms.version"
+25-->[com.google.android.gms:play-services-basement:17.0.0] /Users/matthewkruk/.gradle/caches/transforms-3/c83e858eec40817dd5e6213953833c94/transformed/play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+26            android:value="@integer/google_play_services_version" />
+26-->[com.google.android.gms:play-services-basement:17.0.0] /Users/matthewkruk/.gradle/caches/transforms-3/c83e858eec40817dd5e6213953833c94/transformed/play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+27    </application>
+28
+29</manifest>

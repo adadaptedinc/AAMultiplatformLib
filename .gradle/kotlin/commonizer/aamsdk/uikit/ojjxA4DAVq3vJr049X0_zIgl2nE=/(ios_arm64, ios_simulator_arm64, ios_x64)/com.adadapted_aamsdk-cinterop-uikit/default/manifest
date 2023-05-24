@@ -1,0 +1,13 @@
+builtins_platform=NATIVE
+package=AAMultiplatformLib.cinterop
+compiler_version=1.8.10
+depends=org.jetbrains.kotlin.native.platform.CFCGTypes stdlib
+exportForwardDeclarations=
+interop=true
+native_targets=ios_arm64 ios_simulator_arm64 ios_x64
+unique_name=com.adadapted\:aamsdk-cinterop-uikit
+commonizer_target=(ios_arm64, ios_simulator_arm64, ios_x64)
+abi_version=1.7.0
+commonizer_native_targets=ios_arm64 ios_simulator_arm64 ios_x64
+metadata_version=1.4.1
+ir_version=1.0.0

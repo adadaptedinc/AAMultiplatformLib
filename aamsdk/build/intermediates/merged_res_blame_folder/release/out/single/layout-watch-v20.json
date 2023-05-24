@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/bb66adc09753aabfe1883436e1308b3a/transformed/appcompat-1.1.0/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+        "merged": "/Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/matthewkruk/.gradle/caches/transforms-3/bb66adc09753aabfe1883436e1308b3a/transformed/appcompat-1.1.0/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/bb66adc09753aabfe1883436e1308b3a/transformed/appcompat-1.1.0/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+        "merged": "/Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/matthewkruk/.gradle/caches/transforms-3/bb66adc09753aabfe1883436e1308b3a/transformed/appcompat-1.1.0/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
     }
 ]

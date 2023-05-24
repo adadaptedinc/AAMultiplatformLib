@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.adadapted.library.adTests.AdTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-05-19T14:58:38" hostname="MatthewdAdapted.attlocal.net" time="0.003">
+  <properties/>
+  <testcase name="adContentIsCreatedProperly" classname="com.adadapted.library.adTests.AdTest" time="0.002"/>
+  <testcase name="emptyAdIdReturnsEmpty" classname="com.adadapted.library.adTests.AdTest" time="0.001"/>
+  <testcase name="adZoneIsSplitCorrectly" classname="com.adadapted.library.adTests.AdTest" time="0.0"/>
+  <testcase name="adImpressionSetsTracking" classname="com.adadapted.library.adTests.AdTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

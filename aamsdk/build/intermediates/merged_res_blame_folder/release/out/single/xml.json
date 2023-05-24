@@ -1,22 +1,22 @@
 [
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/xml/standalone_badge_offset.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/773d8221ecd5e2544b4e94b46910044b/transformed/material-1.2.1/res/xml/standalone_badge_offset.xml"
+        "merged": "/Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/xml/standalone_badge_gravity_top_start.xml",
+        "source": "/Users/matthewkruk/.gradle/caches/transforms-3/773d8221ecd5e2544b4e94b46910044b/transformed/material-1.2.1/res/xml/standalone_badge_gravity_top_start.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/xml/standalone_badge_gravity_bottom_end.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/773d8221ecd5e2544b4e94b46910044b/transformed/material-1.2.1/res/xml/standalone_badge_gravity_bottom_end.xml"
+        "merged": "/Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/xml/standalone_badge_gravity_bottom_end.xml",
+        "source": "/Users/matthewkruk/.gradle/caches/transforms-3/773d8221ecd5e2544b4e94b46910044b/transformed/material-1.2.1/res/xml/standalone_badge_gravity_bottom_end.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/xml/standalone_badge_gravity_top_start.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/773d8221ecd5e2544b4e94b46910044b/transformed/material-1.2.1/res/xml/standalone_badge_gravity_top_start.xml"
+        "merged": "/Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/xml/standalone_badge_gravity_bottom_start.xml",
+        "source": "/Users/matthewkruk/.gradle/caches/transforms-3/773d8221ecd5e2544b4e94b46910044b/transformed/material-1.2.1/res/xml/standalone_badge_gravity_bottom_start.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/xml/standalone_badge_gravity_bottom_start.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/773d8221ecd5e2544b4e94b46910044b/transformed/material-1.2.1/res/xml/standalone_badge_gravity_bottom_start.xml"
+        "merged": "/Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/xml/standalone_badge.xml",
+        "source": "/Users/matthewkruk/.gradle/caches/transforms-3/773d8221ecd5e2544b4e94b46910044b/transformed/material-1.2.1/res/xml/standalone_badge.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/xml/standalone_badge.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/773d8221ecd5e2544b4e94b46910044b/transformed/material-1.2.1/res/xml/standalone_badge.xml"
+        "merged": "/Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/xml/standalone_badge_offset.xml",
+        "source": "/Users/matthewkruk/.gradle/caches/transforms-3/773d8221ecd5e2544b4e94b46910044b/transformed/material-1.2.1/res/xml/standalone_badge_offset.xml"
     }
 ]

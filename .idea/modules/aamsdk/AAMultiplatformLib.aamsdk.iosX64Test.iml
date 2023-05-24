@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="5" platform="Native (ios_x64) " allPlatforms="Native []/Native [ios_x64]" useProjectSettings="false" isTestModule="true" externalProjectId=":aamsdk" isHmppProject="true">
+        <dependsOnModuleNames>
+          <dependsOn>:aamsdk:commonTest</dependsOn>
+          <dependsOn>:aamsdk:iosTest</dependsOn>
+        </dependsOnModuleNames>
+        <sourceSets>
+          <sourceSet>AAMultiplatformLib.aamsdk.commonTest</sourceSet>
+          <sourceSet>AAMultiplatformLib.aamsdk.iosTest</sourceSet>
+        </sourceSets>
+        <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
+        <externalSystemTestTasks>
+          <externalSystemTestTask>iosX64Test|:aamsdk|iosX64</externalSystemTestTask>
+        </externalSystemTestTasks>
+        <compilerSettings />
+        <compilerArguments>
+          <stringArguments>
+            <stringArg name="apiVersion" arg="1.6" />
+            <stringArg name="languageVersion" arg="1.8" />
+          </stringArguments>
+          <arrayArguments>
+            <arrayArg name="pluginClasspaths" />
+            <arrayArg name="pluginOptions" />
+          </arrayArguments>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+</module>

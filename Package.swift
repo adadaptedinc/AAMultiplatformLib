@@ -16,7 +16,7 @@ let package = Package(
         .binaryTarget(
             name: "AAMultiplatformLib",
             url: "https://github.com/adadaptedinc/AAMultiplatformLib/AAMultiplatformLib.zip",
-            checksum: "039068c905853259463dc989ecc891eba17436d19519c6da2e398cfe192240dc"
+            checksum: "46bc8ed3e2104733abfb4bf9230f4940a3de46c080721de83302725632c0e4dd"
         ),
     ]
 )
