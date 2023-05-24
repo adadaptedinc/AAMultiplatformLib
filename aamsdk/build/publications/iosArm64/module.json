@@ -102,11 +102,11 @@
         {
           "name": "aamsdk-cinterop-uikit.klib",
           "url": "aamsdk-iosarm64-1.2.2-cinterop-uikit.klib",
-          "size": 7174,
-          "sha512": "4c7d0a14291a0fba3882c12e86c90c1f42376ecc421824b1cfdd23aff1f9ece9fdc71ce8878ae5edc8af18005fc4f5b115ddb1f9a30da2413916ee7f37bae8ac",
-          "sha256": "ccc08b5bef9fc74fffc1945ea795200ccc751b0176923a6622d5f34514b3becb",
-          "sha1": "ceea6586541c9f8a8b219a3f4024d168efcf1b73",
-          "md5": "32c0c9b9192dd4d9305418ee1a786f3c"
+          "size": 7172,
+          "sha512": "9cac144e369fc6d5964971ef1b955aa453d715152b75ed4c8bf75851a7de05b6b34e507748f315e238d386c2b62985eb1817140babbbdb6b052b1742305bd480",
+          "sha256": "1b99bfd8b74b891e434d0acb7d138273151a585eb78fa98ae58c18cc489439b8",
+          "sha1": "546f5044924ee00f0d8ee0ce04cd76721d9ab961",
+          "md5": "0044801281d3c540032e371e79153808"
         }
       ]
     },
@@ -188,11 +188,11 @@
         {
           "name": "aamsdk-iosarm64-1.2.2-metadata.jar",
           "url": "aamsdk-iosarm64-1.2.2-metadata.jar",
-          "size": 13873,
-          "sha512": "c2c7cc79fb100f77ab6b771db703a04e791019e5f7bf31f6d91437986df460a3a11d36857c4ee3ee32899c16da51e854185f0c216dd63751ffa5df724d572324",
-          "sha256": "c85762db88f9d1ae0a20f72cc7f03fbfee7bc7d08deb9f06be80100975154e4f",
-          "sha1": "9274b43f3cd255e5f4477c5f01a970071f67c2de",
-          "md5": "356a35473b1af6898ddeb78d93d86cd6"
+          "size": 13894,
+          "sha512": "9005d9f5c7eb3197f4df3e5cb6e9bd933828d3b4a15c413421caa7ad1a91ffb0ab04989da6f0ac494f6674e8c746d436e4395b47a5f9579e7ab27a76b07f635e",
+          "sha256": "bcdf072dbdb3d3e0ba0ca7036de9b22ac542b601f1032de6c0c6725248bc5e34",
+          "sha1": "577ccc38e67e3b05e3bf6f03cf9230457c206c56",
+          "md5": "cb40670b57fc4361748105e29be269d4"
         }
       ]
     }
