@@ -94,7 +94,7 @@ class AdZonePresenter(private val adViewHandler: AdViewHandler, private val sess
             if (!currentAd.impressionWasTracked()) {
                 eventClient.trackInvisibleImpression(currentAd)
             }
-            currentAd.resetImpressionTracking() //this is critical to make sure rotating ads can get more than one impression (total)
+            currentAd.resetImpressionTracking() //this is critical to make sure rotating ads can get more than one impression total
             adCompleted = true
         }
     }
