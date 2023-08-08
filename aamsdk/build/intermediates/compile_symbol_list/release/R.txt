@@ -2920,6 +2920,7 @@ int drawable notification_template_icon_bg 0x0
 int drawable notification_template_icon_low_bg 0x0
 int drawable notification_tile_bg 0x0
 int drawable notify_panel_notification_icon_bg 0x0
+int drawable report_ad 0x0
 int drawable test_level_drawable 0x0
 int drawable tooltip_frame_dark 0x0
 int drawable tooltip_frame_light 0x0

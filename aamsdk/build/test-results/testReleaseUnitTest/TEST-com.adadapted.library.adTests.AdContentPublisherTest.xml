@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.adadapted.library.adTests.AdContentPublisherTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-05-19T14:58:38" hostname="MatthewdAdapted.attlocal.net" time="0.002">
-  <properties/>
-  <testcase name="listenerIsAddedAndPublished" classname="com.adadapted.library.adTests.AdContentPublisherTest" time="0.002"/>
-  <testcase name="listenerIsRemovedAndPublished" classname="com.adadapted.library.adTests.AdContentPublisherTest" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

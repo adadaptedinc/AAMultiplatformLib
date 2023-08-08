@@ -1,17 +1,17 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "url": "../../aamsdk/1.2.2/aamsdk-1.2.2.module",
+    "url": "../../aamsdk/1.2.3/aamsdk-1.2.3.module",
     "group": "com.adadapted",
     "module": "aamsdk",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "attributes": {
       "org.gradle.status": "release"
     }
   },
   "createdBy": {
     "gradle": {
-      "version": "7.2"
+      "version": "7.5"
     }
   },
   "variants": [
@@ -92,21 +92,21 @@
       "files": [
         {
           "name": "aamsdk.klib",
-          "url": "aamsdk-iossimulatorarm64-1.2.2.klib",
-          "size": 352140,
-          "sha512": "5ae58fe6fba51883943f862d080a8e81ae5f4bd3194a2b1b2427e95361e97b6d0887f5aec4287e494dd7822de5a1d7224bc37c18b010f797496f9507beba819d",
-          "sha256": "1a4349b99056d1f3e15b62b10ab6999594d1f96ddaa8658900d238cdcb5eba69",
-          "sha1": "5363b1c42b2e516ced85cca5ce06fcfea9afd9f1",
-          "md5": "5a3884785efb84b600cdcdae4cbfb0b6"
+          "url": "aamsdk-iossimulatorarm64-1.2.3.klib",
+          "size": 352741,
+          "sha512": "1f7c6e7d96adcc3264866871148be10164e93fa82442d2a1fd7a540c5fd6f7ec05fc1764c4c96aa996e92a0d53e9857a1721e21ae141a9c587e6ef507b4bc01d",
+          "sha256": "0afc04f8e744ee80ee62c0b4e2a09637ed46058e7a1a644aa21f9e02092e1951",
+          "sha1": "e25ec7dec8e42124751f3274f2648da543f9583f",
+          "md5": "343307fad6cbe57a93b58899fd401d22"
         },
         {
           "name": "aamsdk-cinterop-uikit.klib",
-          "url": "aamsdk-iossimulatorarm64-1.2.2-cinterop-uikit.klib",
+          "url": "aamsdk-iossimulatorarm64-1.2.3-cinterop-uikit.klib",
           "size": 7326,
-          "sha512": "40dd423cbb369652c5ca7c379821cb9be04f4f94e5025138e0ec465f1be8e6ac4e7f5b03abdcb5525696aa9809ea33ec18ccda61cc9c832473d557b0907351d3",
-          "sha256": "8f5a50075f40cb0154b8622b2ade9b8721d845e8190fe130bef3793eb8101a62",
-          "sha1": "842fb70b2c81290510a5d40c2359b420415b2d08",
-          "md5": "ac0c1e24efa625a7bb8ed4d1195f8142"
+          "sha512": "b15b616686006ea60b5565c3f68a15c472277ebd10b92451a88bee1f808ce0fd9141521cd21af83efbc7e1678ab0d4c0e0dc6833f20ac8f3ea3dc068f96e147a",
+          "sha256": "6585d1d3bc879b3fc82ead09b6f585db0510031b6bc9cd6725716cb75d965fd8",
+          "sha1": "31884ce4bb0f9c2419e6aef25d798f550b1ebf81",
+          "md5": "2f75916ec0fbc0fe981a8a88fa3d8475"
         }
       ]
     },
@@ -186,13 +186,13 @@
       ],
       "files": [
         {
-          "name": "aamsdk-iossimulatorarm64-1.2.2-metadata.jar",
-          "url": "aamsdk-iossimulatorarm64-1.2.2-metadata.jar",
-          "size": 13894,
-          "sha512": "216ff046fa7ef5cf7e2e8583a0cf5412226213579949096eea62bb48b8e429c3bc29883a234f97be9e6e0f2f805fc4a51a696f9afe6c151844a42ecea2f2b6af",
-          "sha256": "ec348c25b9ef5dce3c069c78b632165a447d167f74ee0464c892e36b29cd05db",
-          "sha1": "5610a85051f3fe093898d01fcc5a51be7336e2d4",
-          "md5": "d07713f7e98e515db5d0ac53c75e0e6b"
+          "name": "aamsdk-iossimulatorarm64-1.2.3-metadata.jar",
+          "url": "aamsdk-iossimulatorarm64-1.2.3-metadata.jar",
+          "size": 13921,
+          "sha512": "dabf827858f6ea7742f17b04bb26a346a80f2658573165cb92d75dac35cf6d94147b0ea9b3b28a4b49235200c55b49bc08530ece5c56f1ac1546bab0bfc7472b",
+          "sha256": "d8f9e1937e08ebda8afc6a3cdfbebebd384c5e3f43560e7b6c5594e57ee5356f",
+          "sha1": "048b5213e4dc2ff08c9edb5c748955ac57262e9a",
+          "md5": "e05498f44e2961c149b397b8e4d06583"
         }
       ]
     }

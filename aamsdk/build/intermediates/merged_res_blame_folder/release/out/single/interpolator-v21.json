@@ -1,14 +1,42 @@
 [
     {
-        "merged": "/Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/interpolator-v21/mtrl_fast_out_linear_in.xml",
-        "source": "/Users/matthewkruk/.gradle/caches/transforms-3/773d8221ecd5e2544b4e94b46910044b/transformed/material-1.2.1/res/interpolator-v21/mtrl_fast_out_linear_in.xml"
+        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/interpolator-v21/m3_sys_motion_easing_standard_decelerate.xml",
+        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/interpolator-v21/m3_sys_motion_easing_standard_decelerate.xml"
     },
     {
-        "merged": "/Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/interpolator-v21/mtrl_fast_out_slow_in.xml",
-        "source": "/Users/matthewkruk/.gradle/caches/transforms-3/773d8221ecd5e2544b4e94b46910044b/transformed/material-1.2.1/res/interpolator-v21/mtrl_fast_out_slow_in.xml"
+        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/interpolator-v21/m3_sys_motion_easing_emphasized_decelerate.xml",
+        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/interpolator-v21/m3_sys_motion_easing_emphasized_decelerate.xml"
     },
     {
-        "merged": "/Users/matthewkruk/Documents/AAMultipatformSdk/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/interpolator-v21/mtrl_linear_out_slow_in.xml",
-        "source": "/Users/matthewkruk/.gradle/caches/transforms-3/773d8221ecd5e2544b4e94b46910044b/transformed/material-1.2.1/res/interpolator-v21/mtrl_linear_out_slow_in.xml"
+        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/interpolator-v21/m3_sys_motion_easing_standard_accelerate.xml",
+        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/interpolator-v21/m3_sys_motion_easing_standard_accelerate.xml"
+    },
+    {
+        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/interpolator-v21/mtrl_fast_out_slow_in.xml",
+        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/interpolator-v21/mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/interpolator-v21/m3_sys_motion_easing_linear.xml",
+        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/interpolator-v21/m3_sys_motion_easing_linear.xml"
+    },
+    {
+        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/interpolator-v21/mtrl_fast_out_linear_in.xml",
+        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/interpolator-v21/mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/interpolator-v21/m3_sys_motion_easing_emphasized.xml",
+        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/interpolator-v21/m3_sys_motion_easing_emphasized.xml"
+    },
+    {
+        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/interpolator-v21/m3_sys_motion_easing_emphasized_accelerate.xml",
+        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/interpolator-v21/m3_sys_motion_easing_emphasized_accelerate.xml"
+    },
+    {
+        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/interpolator-v21/mtrl_linear_out_slow_in.xml",
+        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/interpolator-v21/mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/interpolator-v21/m3_sys_motion_easing_standard.xml",
+        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/interpolator-v21/m3_sys_motion_easing_standard.xml"
     }
 ]

@@ -974,6 +974,7 @@ __attribute__((swift_name("AdViewHandler")))
 + (instancetype)new __attribute__((availability(swift, unavailable, message="use object initializers instead")));
 - (void)handleLinkAd:(AAMLAd *)ad __attribute__((swift_name("handleLink(ad:)")));
 - (void)handlePopupAd:(AAMLAd *)ad __attribute__((swift_name("handlePopup(ad:)")));
+- (void)handleReportAdAdId:(NSString *)adId udid:(NSString *)udid __attribute__((swift_name("handleReportAd(adId:udid:)")));
 @end
 
 __attribute__((objc_subclassing_restricted))
@@ -989,6 +990,7 @@ __attribute__((swift_name("AdZonePresenter")))
 - (void)onAttachAdZonePresenterListener:(id<AAMLAdZonePresenterListener> _Nullable)adZonePresenterListener __attribute__((swift_name("onAttach(adZonePresenterListener:)")));
 - (void)onBlankDisplayed __attribute__((swift_name("onBlankDisplayed()")));
 - (void)onDetach __attribute__((swift_name("onDetach()")));
+- (void)onReportAdClickedAdId:(NSString *)adId udid:(NSString *)udid __attribute__((swift_name("onReportAdClicked(adId:udid:)")));
 - (void)onSessionAvailableSession:(AAMLSession *)session __attribute__((swift_name("onSessionAvailable(session:)")));
 - (void)onSessionInitFailed __attribute__((swift_name("onSessionInitFailed()")));
 @property id<AAMLAdZonePresenterListener> _Nullable adZonePresenterListener __attribute__((swift_name("adZonePresenterListener")));

@@ -8,7 +8,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.adadapted</groupId>
   <artifactId>aamsdk-android</artifactId>
-  <version>1.2.2</version>
+  <version>1.2.3</version>
   <packaging>aar</packaging>
   <name>AdAdapted Multiplatform Library</name>
   <description>Kotlin Multiplatform library for AdAdapted</description>

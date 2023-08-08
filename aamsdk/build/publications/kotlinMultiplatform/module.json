@@ -3,14 +3,14 @@
   "component": {
     "group": "com.adadapted",
     "module": "aamsdk",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "attributes": {
       "org.gradle.status": "release"
     }
   },
   "createdBy": {
     "gradle": {
-      "version": "7.2"
+      "version": "7.5"
     }
   },
   "variants": [
@@ -88,13 +88,13 @@
       ],
       "files": [
         {
-          "name": "aamsdk-metadata-1.2.2.jar",
-          "url": "aamsdk-1.2.2.jar",
-          "size": 36988,
-          "sha512": "34ceb91313e1dca3d81603ae183d9dbc2166d4e87ed26787f3b87879c37fb9e44ff3440e2f39f79bd30d75b63e5e7e96110d4f5af878424515e120609d1181b7",
-          "sha256": "5ef37cca6a6bedfbf94dbb753faa54293586595590e8b69213635210bf5e444f",
-          "sha1": "ea479831e6f99cca73ad3b86ff77b5e17477d19a",
-          "md5": "fa20d00dbc0ab3930de41a2acf74c5c9"
+          "name": "aamsdk-metadata-1.2.3.jar",
+          "url": "aamsdk-1.2.3.jar",
+          "size": 37105,
+          "sha512": "55de0092fc53171bfedb3b82d923582f636c379e6ed139a1dad00b4e285f705714c0b5efee62e1875ba4ea2cc00e86c499a5e189469a94506ecc22c390a3cffd",
+          "sha256": "3deaaed3ef489b2b3c6f62469da9ed05b6819dda03b723cd41a169e4260f6cfe",
+          "sha1": "0892100785804aa284d891f5a8634333de9cef63",
+          "md5": "0930519b20fbd8abefb9c0aeaf9ea122"
         }
       ]
     },
@@ -107,10 +107,10 @@
         "org.jetbrains.kotlin.platform.type": "androidJvm"
       },
       "available-at": {
-        "url": "../../aamsdk-android-debug/1.2.2/aamsdk-android-debug-1.2.2.module",
+        "url": "../../aamsdk-android-debug/1.2.3/aamsdk-android-debug-1.2.3.module",
         "group": "com.adadapted",
         "module": "aamsdk-android-debug",
-        "version": "1.2.2"
+        "version": "1.2.3"
       }
     },
     {
@@ -122,10 +122,10 @@
         "org.jetbrains.kotlin.platform.type": "androidJvm"
       },
       "available-at": {
-        "url": "../../aamsdk-android-debug/1.2.2/aamsdk-android-debug-1.2.2.module",
+        "url": "../../aamsdk-android-debug/1.2.3/aamsdk-android-debug-1.2.3.module",
         "group": "com.adadapted",
         "module": "aamsdk-android-debug",
-        "version": "1.2.2"
+        "version": "1.2.3"
       }
     },
     {
@@ -136,10 +136,10 @@
         "org.jetbrains.kotlin.platform.type": "androidJvm"
       },
       "available-at": {
-        "url": "../../aamsdk-android/1.2.2/aamsdk-android-1.2.2.module",
+        "url": "../../aamsdk-android/1.2.3/aamsdk-android-1.2.3.module",
         "group": "com.adadapted",
         "module": "aamsdk-android",
-        "version": "1.2.2"
+        "version": "1.2.3"
       }
     },
     {
@@ -150,10 +150,10 @@
         "org.jetbrains.kotlin.platform.type": "androidJvm"
       },
       "available-at": {
-        "url": "../../aamsdk-android/1.2.2/aamsdk-android-1.2.2.module",
+        "url": "../../aamsdk-android/1.2.3/aamsdk-android-1.2.3.module",
         "group": "com.adadapted",
         "module": "aamsdk-android",
-        "version": "1.2.2"
+        "version": "1.2.3"
       }
     },
     {
@@ -166,10 +166,10 @@
         "org.jetbrains.kotlin.platform.type": "native"
       },
       "available-at": {
-        "url": "../../aamsdk-iosarm64/1.2.2/aamsdk-iosarm64-1.2.2.module",
+        "url": "../../aamsdk-iosarm64/1.2.3/aamsdk-iosarm64-1.2.3.module",
         "group": "com.adadapted",
         "module": "aamsdk-iosarm64",
-        "version": "1.2.2"
+        "version": "1.2.3"
       }
     },
     {
@@ -182,10 +182,10 @@
         "org.jetbrains.kotlin.platform.type": "native"
       },
       "available-at": {
-        "url": "../../aamsdk-iosarm64/1.2.2/aamsdk-iosarm64-1.2.2.module",
+        "url": "../../aamsdk-iosarm64/1.2.3/aamsdk-iosarm64-1.2.3.module",
         "group": "com.adadapted",
         "module": "aamsdk-iosarm64",
-        "version": "1.2.2"
+        "version": "1.2.3"
       }
     },
     {
@@ -198,10 +198,10 @@
         "org.jetbrains.kotlin.platform.type": "native"
       },
       "available-at": {
-        "url": "../../aamsdk-iossimulatorarm64/1.2.2/aamsdk-iossimulatorarm64-1.2.2.module",
+        "url": "../../aamsdk-iossimulatorarm64/1.2.3/aamsdk-iossimulatorarm64-1.2.3.module",
         "group": "com.adadapted",
         "module": "aamsdk-iossimulatorarm64",
-        "version": "1.2.2"
+        "version": "1.2.3"
       }
     },
     {
@@ -214,10 +214,10 @@
         "org.jetbrains.kotlin.platform.type": "native"
       },
       "available-at": {
-        "url": "../../aamsdk-iossimulatorarm64/1.2.2/aamsdk-iossimulatorarm64-1.2.2.module",
+        "url": "../../aamsdk-iossimulatorarm64/1.2.3/aamsdk-iossimulatorarm64-1.2.3.module",
         "group": "com.adadapted",
         "module": "aamsdk-iossimulatorarm64",
-        "version": "1.2.2"
+        "version": "1.2.3"
       }
     },
     {
@@ -230,10 +230,10 @@
         "org.jetbrains.kotlin.platform.type": "native"
       },
       "available-at": {
-        "url": "../../aamsdk-iosx64/1.2.2/aamsdk-iosx64-1.2.2.module",
+        "url": "../../aamsdk-iosx64/1.2.3/aamsdk-iosx64-1.2.3.module",
         "group": "com.adadapted",
         "module": "aamsdk-iosx64",
-        "version": "1.2.2"
+        "version": "1.2.3"
       }
     },
     {
@@ -246,10 +246,10 @@
         "org.jetbrains.kotlin.platform.type": "native"
       },
       "available-at": {
-        "url": "../../aamsdk-iosx64/1.2.2/aamsdk-iosx64-1.2.2.module",
+        "url": "../../aamsdk-iosx64/1.2.3/aamsdk-iosx64-1.2.3.module",
         "group": "com.adadapted",
         "module": "aamsdk-iosx64",
-        "version": "1.2.2"
+        "version": "1.2.3"
       }
     }
   ]

@@ -10,4 +10,8 @@ actual class AdViewHandler {
     actual fun handlePopup(ad: Ad) {
         Popup(ad = ad, linkType = LinkType.POP_UP)
     }
+
+    actual fun handleReportAd(url: String) {
+        //TODO IMPLEMENTATION
+    }
 }

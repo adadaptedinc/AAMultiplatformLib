@@ -1,6 +1,3 @@
-import gradle.kotlin.dsl.accessors._98ddc69e404e030b2baf3d8bc3aab94c.ext
-import gradle.kotlin.dsl.accessors._98ddc69e404e030b2baf3d8bc3aab94c.publishing
-import gradle.kotlin.dsl.accessors._98ddc69e404e030b2baf3d8bc3aab94c.signing
 import org.gradle.api.publish.maven.MavenPublication
 import org.gradle.api.tasks.bundling.Jar
 import org.gradle.kotlin.dsl.`maven-publish`

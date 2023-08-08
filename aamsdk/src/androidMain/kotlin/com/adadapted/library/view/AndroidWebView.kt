@@ -22,7 +22,7 @@ internal class AndroidWebView constructor(context: Context, private val listener
         fun onBlankAdInWebViewLoaded()
     }
 
-    private lateinit var currentAd: Ad
+    lateinit var currentAd: Ad
     private var loaded = false
 
     fun loadAd(ad: Ad) {

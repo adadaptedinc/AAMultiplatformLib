@@ -17,4 +17,11 @@ actual class AdViewHandler(private val context: Context) {
         val intent = AndroidWebViewPopupActivity().createActivity(context, ad)
         context.startActivity(intent)
     }
+
+    actual fun handleReportAd(url: String) {
+        val intent = Intent(Intent.ACTION_VIEW)
+        intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
+        intent.data = Uri.parse(url)
+        context.startActivity(intent)
+    }
 }
