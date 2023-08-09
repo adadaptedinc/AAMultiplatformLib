@@ -1,14 +1,11 @@
-
 *.lock
 *.html
 aamsdk/build/test-results/testDebugUnitTest/binary/results.bin
 aamsdk/build/test-results/testDebugUnitTest/TEST-com.adadapted.library.adTests.payloadTests.PayloadClientTest.xml
 .gradle/7.2/fileHashes/fileHashes.bin
 .gradle/7.2/executionHistory/executionHistory.bin
-*.lock
 aamsdk/build/classes/kotlin/iosArm64/main/cinterop/aamsdk-cinterop-uikit.klib-build/manifest.properties
 aamsdk/build/classes/kotlin/iosX64/main/cinterop/aamsdk-cinterop-uikit.klib-build/manifest.properties
 aamsdk/build/classes/kotlin/iosX64/main/cinterop/aamsdk-cinterop-uikit.klib-build/natives/cstubs.bc
 .gradle/7.2/fileHashes/fileHashes.bin
 .gradle/7.2/executionHistory/executionHistory.bin
-*.lock
