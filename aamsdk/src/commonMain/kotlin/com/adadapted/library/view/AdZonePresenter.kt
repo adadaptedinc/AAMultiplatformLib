@@ -149,8 +149,8 @@ class AdZonePresenter(private val adViewHandler: AdViewHandler, private val sess
         cycleToNextAdIfPossible()
     }
 
-    fun onReportAdClicked(formattedUrl: String) {
-        adViewHandler.handleReportAd(formattedUrl)
+    fun onReportAdClicked(adId: String, udid: String) {
+        adViewHandler.handleReportAd(adId, udid)
     }
 
     private fun trackAdImpression(ad: Ad, isAdVisible: Boolean) {

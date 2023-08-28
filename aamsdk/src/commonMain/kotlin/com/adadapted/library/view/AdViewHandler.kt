@@ -5,5 +5,5 @@ import com.adadapted.library.ad.Ad
 expect class AdViewHandler {
     fun handleLink(ad: Ad)
     fun handlePopup(ad: Ad)
-    fun handleReportAd(url: String)
+    fun handleReportAd(adId: String, udid: String)
 }

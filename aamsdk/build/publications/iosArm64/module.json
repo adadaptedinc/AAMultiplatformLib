@@ -93,20 +93,20 @@
         {
           "name": "aamsdk.klib",
           "url": "aamsdk-iosarm64-1.2.3.klib",
-          "size": 352432,
-          "sha512": "4ff308ff20175fef461bcfc8856394d95454ebbac3ecd9e5f2fd6b9d56436ce21f177f6a8c7e91fe730ad48b798a0de7e655ed13d4f7af79e845d8a117c8820d",
-          "sha256": "55c2fb78b8b2767f0c2cdab8263984efa05f82558fb3c24237a39dc0ac0eeb80",
-          "sha1": "49b3ec107526214f0c1749fc5542162aaaa42bef",
-          "md5": "c431f692607d07611d53895b09a32e85"
+          "size": 352833,
+          "sha512": "6a166186390d98b9d791287a55e2265e70c292775bc3ae69643da6b837d09bf5578a1ff5a883c978ea5f3f336193c82453bde9c75a1d63077108b0f07d509e56",
+          "sha256": "635d0e43ff99f1eb86a725d7aa1ea75418e3cfdf6e42db4955d674a33725a8d9",
+          "sha1": "f241efc6f0cdbd5bb900fb6d1a42c2300fe65bd1",
+          "md5": "7d67e3c305878aa7e1294f721c5de406"
         },
         {
           "name": "aamsdk-cinterop-uikit.klib",
           "url": "aamsdk-iosarm64-1.2.3-cinterop-uikit.klib",
-          "size": 7174,
-          "sha512": "d869a32cba7d7f4ab51fe6daa3a54782764f6e08ad708690335102b5945d3e4810f984d8762284fd04649942430585451b4131f90a3b30b9a9e8c25a644964b1",
-          "sha256": "cea9bf73e9d26a574c7a64d8b48069fa0f936b3a0e92bf3299b34587e29d4e62",
-          "sha1": "456e723a9bd158e0b282e59c43f03d930729157e",
-          "md5": "81466fe9541d428f4e3e752faeecc800"
+          "size": 7178,
+          "sha512": "9aeeb755805cb13c440aeb25ee6096ba1ee7988761d6a255b4e752c815600a650a33a549f106406512242881c9c9bfdd71070e3efe054c748603b36e8bcb0c8a",
+          "sha256": "596b1b6ee30e57ed4989aaa05b8b95f29a7a387618c95d26f63e801a62a5af4f",
+          "sha1": "24778c17f46f02b4e9736ee6131bc6be71e514d7",
+          "md5": "edf19cc76d24fc5682a381c5ac2e5ddd"
         }
       ]
     },
@@ -188,11 +188,11 @@
         {
           "name": "aamsdk-iosarm64-1.2.3-metadata.jar",
           "url": "aamsdk-iosarm64-1.2.3-metadata.jar",
-          "size": 13921,
-          "sha512": "0d6d08dcb789b73289f99f20f04adc900665ca16323358009c5044ee4cd7268c80dcc7bd11e5b4b16335d200f963a778ac222370e7f7713d853d5df79146d36d",
-          "sha256": "8448672e0a711d1ca7bcbf76d3c78ae4162693d478af77d8478443c472a1293a",
-          "sha1": "3323d74ebb047406de4d94cc35e08a13a872bcbd",
-          "md5": "a10cbe6d0c44519e0cf2cb3c420d7bbf"
+          "size": 13936,
+          "sha512": "9820b55197158f155054fff5c457e3789295feb68dcbda32261959dc8901be0fbb21276641e7dc41f77bd1b29c46cf4ddd9514ca90d5059728c1afa0d27032f8",
+          "sha256": "60304887de805a9fc05893c3a634f8fcef744440919a4b7d53dab95223fd2492",
+          "sha1": "69932382df6702c7c192ffd1f532000a28f0c2ee",
+          "md5": "9af953a41dcde71585aec6b2a59e46d4"
         }
       ]
     }

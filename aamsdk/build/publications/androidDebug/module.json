@@ -36,11 +36,11 @@
         {
           "name": "aamsdk-debug.aar",
           "url": "aamsdk-android-debug-1.2.3.aar",
-          "size": 433310,
-          "sha512": "b7a01ee7679de230bf3c195a08e512bb0b4417a8a5ab343195010083bce95f50c5b37e4b8cb048541d43ac98190fd49dc228a9f16b8cd29b7857a8b29a4501fb",
-          "sha256": "85d0b3cc18086a1b5161604c06ec016048558998b5a07b7b1d1dcd1e719ef8a2",
-          "sha1": "5a283eb2e746703de7bb3034488d257338dcfdf8",
-          "md5": "eec1b54af2678c9202f0a611df5cc312"
+          "size": 433180,
+          "sha512": "7590976887a978307a0632309dcdb8a8a8580ca303251c7f408048c3ebd27f2155d703dcf5a02880746825ec845093d67120925fd45df53344f7fb46ea6af5f5",
+          "sha256": "167f28cda6d892d7e3d05dc0a84a5fad0600bb48e49990151e03c51a6fe13825",
+          "sha1": "8e6da5d67c53d492e49b8fd3acf9c669ba698dd0",
+          "md5": "6435145ffdc7c294596f55039dfc37a9"
         }
       ]
     },
@@ -289,11 +289,11 @@
         {
           "name": "aamsdk-debug.aar",
           "url": "aamsdk-android-debug-1.2.3.aar",
-          "size": 433310,
-          "sha512": "b7a01ee7679de230bf3c195a08e512bb0b4417a8a5ab343195010083bce95f50c5b37e4b8cb048541d43ac98190fd49dc228a9f16b8cd29b7857a8b29a4501fb",
-          "sha256": "85d0b3cc18086a1b5161604c06ec016048558998b5a07b7b1d1dcd1e719ef8a2",
-          "sha1": "5a283eb2e746703de7bb3034488d257338dcfdf8",
-          "md5": "eec1b54af2678c9202f0a611df5cc312"
+          "size": 433180,
+          "sha512": "7590976887a978307a0632309dcdb8a8a8580ca303251c7f408048c3ebd27f2155d703dcf5a02880746825ec845093d67120925fd45df53344f7fb46ea6af5f5",
+          "sha256": "167f28cda6d892d7e3d05dc0a84a5fad0600bb48e49990151e03c51a6fe13825",
+          "sha1": "8e6da5d67c53d492e49b8fd3acf9c669ba698dd0",
+          "md5": "6435145ffdc7c294596f55039dfc37a9"
         }
       ]
     }

@@ -12,8 +12,8 @@ import com.adadapted.library.R
 import com.adadapted.library.ad.Ad
 import com.adadapted.library.ad.AdContentListener
 import com.adadapted.library.ad.AdContentPublisher
+import com.adadapted.library.constants.Config
 import com.adadapted.library.device.DeviceInfoClient
-import com.adadapted.library.helpers.UrlFormatter
 import com.adadapted.library.session.SessionClient
 
 class AndroidZoneView : RelativeLayout, AdZonePresenterListener, AndroidWebView.Listener {
@@ -58,7 +58,7 @@ class AndroidZoneView : RelativeLayout, AdZonePresenterListener, AndroidWebView.
         reportButton.setOnClickListener {
             val cachedDeviceInfo = DeviceInfoClient.getCachedDeviceInfo()
             cachedDeviceInfo?.udid?.let { udid ->
-                presenter.onReportAdClicked(UrlFormatter.getFormattedReportingUrl(webView.currentAd.id, udid))
+                presenter.onReportAdClicked(webView.currentAd.id, udid)
             }
         }
         Handler(Looper.getMainLooper()).post { addView(webView) }

@@ -35,11 +35,11 @@
         {
           "name": "aamsdk-release.aar",
           "url": "aamsdk-android-1.2.3.aar",
-          "size": 414414,
-          "sha512": "bf7fe2c02e21812b693b5ae8e4a27155c7588a93242540413e2f0635f48323035cc82c27b22bab7fd7803f2a7bba47935852c0960bf5ff14a4209413ef130546",
-          "sha256": "e5d6942d2a3e1fa254c79be2140d8cb7004b0b492f53b813bb091d77b6259fbf",
-          "sha1": "c3bb6851fb0eb2b1f81302e180cbf04ff2a54a25",
-          "md5": "1f95d9cd3128eff00ffba52d0a085aa5"
+          "size": 414236,
+          "sha512": "c744c711cb3ab3146ffc2cd2108ba4a56d3a458c4774286a2cef582ee200236d0cf9e6d215ed2126e9d3f355875cc0c58a124037d71ed71ae1bc4344320d1950",
+          "sha256": "2ce52d795d440f3c7d9dfbbd0e626e023827952dcae3fafeab3d7c9e8650127f",
+          "sha1": "11327e159bd953e76bf0f87326ea48589023588d",
+          "md5": "841ef7a19622109127689b0577fac556"
         }
       ]
     },
@@ -287,11 +287,11 @@
         {
           "name": "aamsdk-release.aar",
           "url": "aamsdk-android-1.2.3.aar",
-          "size": 414414,
-          "sha512": "bf7fe2c02e21812b693b5ae8e4a27155c7588a93242540413e2f0635f48323035cc82c27b22bab7fd7803f2a7bba47935852c0960bf5ff14a4209413ef130546",
-          "sha256": "e5d6942d2a3e1fa254c79be2140d8cb7004b0b492f53b813bb091d77b6259fbf",
-          "sha1": "c3bb6851fb0eb2b1f81302e180cbf04ff2a54a25",
-          "md5": "1f95d9cd3128eff00ffba52d0a085aa5"
+          "size": 414236,
+          "sha512": "c744c711cb3ab3146ffc2cd2108ba4a56d3a458c4774286a2cef582ee200236d0cf9e6d215ed2126e9d3f355875cc0c58a124037d71ed71ae1bc4344320d1950",
+          "sha256": "2ce52d795d440f3c7d9dfbbd0e626e023827952dcae3fafeab3d7c9e8650127f",
+          "sha1": "11327e159bd953e76bf0f87326ea48589023588d",
+          "md5": "841ef7a19622109127689b0577fac556"
         }
       ]
     }

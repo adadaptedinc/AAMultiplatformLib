@@ -90,11 +90,11 @@
         {
           "name": "aamsdk-metadata-1.2.3.jar",
           "url": "aamsdk-1.2.3.jar",
-          "size": 37105,
-          "sha512": "55de0092fc53171bfedb3b82d923582f636c379e6ed139a1dad00b4e285f705714c0b5efee62e1875ba4ea2cc00e86c499a5e189469a94506ecc22c390a3cffd",
-          "sha256": "3deaaed3ef489b2b3c6f62469da9ed05b6819dda03b723cd41a169e4260f6cfe",
-          "sha1": "0892100785804aa284d891f5a8634333de9cef63",
-          "md5": "0930519b20fbd8abefb9c0aeaf9ea122"
+          "size": 37138,
+          "sha512": "4515519be6ad7ca13059fd93d481f8db4ad78368ec4313af4bfd0cf02de5b40f09c3cd6294016ee17c75fb92209cc61ba5def21b16f9408c26f7036a4683a663",
+          "sha256": "1c6d8dc76021fd6a2a944b11323cdd8bff6887f2a0cd5a8cf71e91aa9c0bc049",
+          "sha1": "5f75e3e7f43654c8530bc3c0f0bb3b99fc8bb2b4",
+          "md5": "dbe7264b438e5e865220ebe8a2e01f1a"
         }
       ]
     },

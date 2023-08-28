@@ -4,6 +4,7 @@ import android.content.Context
 import android.content.Intent
 import android.net.Uri
 import com.adadapted.library.ad.Ad
+import com.adadapted.library.constants.Config
 
 actual class AdViewHandler(private val context: Context) {
     actual fun handleLink(ad: Ad) {
@@ -18,10 +19,18 @@ actual class AdViewHandler(private val context: Context) {
         context.startActivity(intent)
     }
 
-    actual fun handleReportAd(url: String) {
+    actual fun handleReportAd(adId: String, udid: String) {
         val intent = Intent(Intent.ACTION_VIEW)
         intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
-        intent.data = Uri.parse(url)
+        intent.data = buildReportAdUri(adId, udid)
         context.startActivity(intent)
+    }
+
+    private fun buildReportAdUri(adId: String, udid: String): Uri {
+        return Uri.parse(Config.getAdReportingHost())
+            .buildUpon()
+            .appendQueryParameter(Config.AD_ID_PARAM, adId)
+            .appendQueryParameter(Config.UDID_PARAM, udid)
+            .build()
     }
 }

@@ -30,6 +30,8 @@ object Config {
     private const val ERROR_TRACK_PATH = "android/errors"
     private const val PAYLOAD_PICKUP_PATH = "pickup"
     private const val PAYLOAD_TRACK_PATH = "tracking"
+    const val AD_ID_PARAM = "aid"
+    const val UDID_PARAM = "uid"
 
     fun getInitSessionUrl() = getAdServerFormattedUrl(SESSION_INIT_PATH)
     fun getRefreshAdsUrl() = getAdServerFormattedUrl(REFRESH_ADS_PATH)
@@ -43,6 +45,10 @@ object Config {
 
     fun init(useProd: Boolean) {
         isProd = useProd
+    }
+
+    fun getAdReportingHost(): String {
+        return (if (isProd) Prod.AD_REPORTING_URL else Sand.AD_REPORTING_URL)
     }
 
     private fun getAdServerHost(): String {
@@ -73,11 +79,13 @@ object Config {
         const val AD_SERVER_HOST = "https://ads.adadapted.com"
         const val EVENT_COLLECTOR_HOST = "https://ec.adadapted.com"
         const val PAYLOAD_HOST = "https://payload.adadapted.com"
+        const val AD_REPORTING_URL = "https://feedback.add-it.io/?"
     }
 
     internal object Sand {
         const val AD_SERVER_HOST = "https://sandbox.adadapted.com"
         const val EVENT_COLLECTOR_HOST = "https://sandec.adadapted.com"
         const val PAYLOAD_HOST = "https://sandpayload.adadapted.com"
+        const val AD_REPORTING_URL = "https://dev.feedback.add-it.io/?"
     }
 }
