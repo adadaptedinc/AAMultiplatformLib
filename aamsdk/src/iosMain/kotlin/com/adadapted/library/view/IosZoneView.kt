@@ -9,21 +9,33 @@ import com.adadapted.library.interfaces.WebViewListener
 import com.adadapted.library.interfaces.ZoneViewListener
 import com.adadapted.library.log.AALogger
 import com.adadapted.library.session.SessionClient
+import kotlinx.cinterop.ObjCAction
 import kotlinx.cinterop.cValue
 import platform.CoreGraphics.CGRectZero
+import platform.Foundation.*
 import platform.UIKit.*
+import platform.objc.sel_registerName
 
 class IosZoneView : UIView(frame = cValue { CGRectZero }) {
 
     var presenter: AdZonePresenter = AdZonePresenter(AdViewHandler(), SessionClient)
     var zoneViewListener: ZoneViewListener? = null
     private var webView: IosWebView = IosWebView()
+    private var reportAdView: UIButton = UIButton.buttonWithType(UIButtonTypeCustom)
     private var isVisible = true
     private var isAdVisible = true
+    private var currentAd: Ad? = null
 
     init {
         this.webView.addWebViewListener(setWebViewListener())
+        reportAdView.addTarget(this, sel_registerName("reportAdTapped"), UIControlEventTouchUpInside)
+        reportAdView.layer.backgroundColor = UIColor.cyanColor().CGColor()
+        reportAdView.layer.borderColor = UIColor.blackColor().CGColor()
+        reportAdView.layer.borderWidth = 1.5
+        webView.layer.borderColor = UIColor.blueColor().CGColor()
+        webView.layer.borderWidth = 1.5
         addSubview(webView)
+        addSubview(reportAdView)
         setupConstraints()
     }
 
@@ -106,6 +118,7 @@ class IosZoneView : UIView(frame = cValue { CGRectZero }) {
     private fun setWebViewListener() = object : WebViewListener {
         override fun onAdLoadedInWebView(ad: Ad) {
             AALogger.logInfo("Ad ${ad.id} loaded")
+            currentAd = ad
             presenter.onAdDisplayed(ad, isAdVisible)
             notifyClientAdLoaded()
         }
@@ -127,6 +140,14 @@ class IosZoneView : UIView(frame = cValue { CGRectZero }) {
         }
     }
 
+    @ObjCAction
+    private fun reportAdTapped() {
+        println("report ad tapped")
+        val AA_UUID_KEY = "aamsdk_uuid"
+        val preferences = NSUserDefaults.standardUserDefaults()
+        currentAd?.id?.let { AdViewHandler().handleReportAd(it, preferences.valueForKey(AA_UUID_KEY).toString()) }
+    }
+
     private fun setVisible() {
         isVisible = true
         presenter.onAttach(setAdZonePresenterListener())
@@ -145,6 +166,15 @@ class IosZoneView : UIView(frame = cValue { CGRectZero }) {
         constraints.add(webView.heightAnchor.constraintEqualToAnchor(heightAnchor))
         constraints.add(webView.widthAnchor.constraintEqualToAnchor(widthAnchor))
         constraints.add(webView.centerXAnchor.constraintEqualToAnchor(centerXAnchor))
+        constraints.add(reportAdView.topAnchor.constraintEqualToAnchor(webView.topAnchor, 10.0))
+        constraints.add(reportAdView.trailingAnchor.constraintEqualToAnchor(webView.trailingAnchor, -10.0))
+        constraints.add(reportAdView.widthAnchor.constraintEqualToConstant(14.0))
+        constraints.add(reportAdView.heightAnchor.constraintEqualToConstant(14.0))
+        reportAdView.translatesAutoresizingMaskIntoConstraints = false
+        reportAdView.clipsToBounds = true
+        reportAdView.contentMode = UIViewContentMode.UIViewContentModeScaleAspectFill
+        reportAdView.setNeedsLayout()
+        reportAdView.layoutIfNeeded()
         NSLayoutConstraint.activateConstraints(constraints)
     }
 }

@@ -1,34 +1,34 @@
 [
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/drawable-v21/mtrl_navigation_bar_item_background.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/drawable-v21/mtrl_navigation_bar_item_background.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/drawable-v21/abc_btn_colored_material.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/drawable-v21/abc_btn_colored_material.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/drawable-v21/abc_list_divider_material.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/drawable-v21/abc_list_divider_material.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/drawable-v21/mtrl_navigation_bar_item_background.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/drawable-v21/mtrl_navigation_bar_item_background.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/drawable-v21/abc_edit_text_material.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/drawable-v21/abc_edit_text_material.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/drawable-v21/material_cursor_drawable.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/drawable-v21/material_cursor_drawable.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/drawable-v21/abc_btn_colored_material.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/drawable-v21/abc_edit_text_material.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/drawable-v21/abc_edit_text_material.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/drawable-v21/abc_dialog_material_background.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/drawable-v21/abc_dialog_material_background.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/drawable-v21/abc_list_divider_material.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/drawable-v21/abc_list_divider_material.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/drawable-v21/material_cursor_drawable.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/drawable-v21/material_cursor_drawable.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/drawable-v21/abc_dialog_material_background.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/drawable-v21/abc_dialog_material_background.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/drawable-v21/notification_action_background.xml",
+        "source": "com.adadapted.library.aamsdk-core-1.8.0-3:/drawable-v21/notification_action_background.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/drawable-v21/notification_action_background.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/378572aea111d302e601ec65fd2fea9c/transformed/core-1.8.0/res/drawable-v21/notification_action_background.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/drawable-v21/abc_action_bar_item_background_material.xml"
     }
 ]

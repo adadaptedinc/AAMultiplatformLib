@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
+            "outputFile": "com.adadapted.library.aamsdk-merged_res-29:/values-xlarge-v4/values-xlarge-v4.xml",
             "map": [
                 {
-                    "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "source": "/Users/matthewkruk/.gradle/caches/transforms-3/d92cbbf4344903c58612927fa10ce020/transformed/appcompat-1.5.0/res/values-xlarge-v4/values-xlarge-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/values-xlarge-v4/values-xlarge-v4.xml",
+            "outputFile": "com.adadapted.library.aamsdk-mergeReleaseResources-27:/values-xlarge-v4/values-xlarge-v4.xml",
             "map": [
                 {
-                    "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "source": "/Users/matthewkruk/.gradle/caches/transforms-3/d92cbbf4344903c58612927fa10ce020/transformed/appcompat-1.5.0/res/values-xlarge-v4/values-xlarge-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",

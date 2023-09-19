@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/values-v16/values-v16.xml",
+            "outputFile": "com.adadapted.library.aamsdk-mergeReleaseResources-27:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/bclifton/.gradle/caches/transforms-3/378572aea111d302e601ec65fd2fea9c/transformed/core-1.8.0/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/values-v16/values-v16.xml",
+                    "source": "/Users/matthewkruk/.gradle/caches/transforms-3/d92cbbf4344903c58612927fa10ce020/transformed/appcompat-1.5.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -30,25 +20,25 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/Users/matthewkruk/.gradle/caches/transforms-3/2980bd180481e0468401186dd52cd843/transformed/core-1.8.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
                     }
                 }
             ]
         },
         {
-            "outputFile": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "com.adadapted.library.aamsdk-merged_res-29:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/bclifton/.gradle/caches/transforms-3/378572aea111d302e601ec65fd2fea9c/transformed/core-1.8.0/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/values-v16/values-v16.xml",
+                    "source": "/Users/matthewkruk/.gradle/caches/transforms-3/d92cbbf4344903c58612927fa10ce020/transformed/appcompat-1.5.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -64,6 +54,16 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/Users/matthewkruk/.gradle/caches/transforms-3/2980bd180481e0468401186dd52cd843/transformed/core-1.8.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
                     }
                 }
             ]

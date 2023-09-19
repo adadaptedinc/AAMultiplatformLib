@@ -1114,6 +1114,7 @@ __attribute__((swift_name("Config")))
 + (instancetype)config __attribute__((swift_name("init()")));
 @property (class, readonly, getter=shared) AAMLConfig *shared __attribute__((swift_name("shared")));
 - (NSString *)getAdEventsUrl __attribute__((swift_name("getAdEventsUrl()")));
+- (NSString *)getAdReportingHost __attribute__((swift_name("getAdReportingHost()")));
 - (NSString *)getInitSessionUrl __attribute__((swift_name("getInitSessionUrl()")));
 - (NSString *)getInterceptEventsUrl __attribute__((swift_name("getInterceptEventsUrl()")));
 - (NSString *)getPickupPayloadsUrl __attribute__((swift_name("getPickupPayloadsUrl()")));
@@ -1126,11 +1127,13 @@ __attribute__((swift_name("Config")))
 @property (readonly) NSString *AASDK_PREFS_GENERATED_ID_KEY __attribute__((swift_name("AASDK_PREFS_GENERATED_ID_KEY")));
 @property (readonly) NSString *AASDK_PREFS_KEY __attribute__((swift_name("AASDK_PREFS_KEY")));
 @property (readonly) NSString *AASDK_PREFS_TRACKING_DISABLED_KEY __attribute__((swift_name("AASDK_PREFS_TRACKING_DISABLED_KEY")));
+@property (readonly) NSString *AD_ID_PARAM __attribute__((swift_name("AD_ID_PARAM")));
 @property (readonly) int64_t DEFAULT_AD_POLLING __attribute__((swift_name("DEFAULT_AD_POLLING")));
 @property (readonly) int64_t DEFAULT_AD_REFRESH __attribute__((swift_name("DEFAULT_AD_REFRESH")));
 @property (readonly) int64_t DEFAULT_EVENT_POLLING __attribute__((swift_name("DEFAULT_EVENT_POLLING")));
 @property (readonly) NSString *LIBRARY_VERSION __attribute__((swift_name("LIBRARY_VERSION")));
 @property (readonly) NSString *LOG_TAG __attribute__((swift_name("LOG_TAG")));
+@property (readonly) NSString *UDID_PARAM __attribute__((swift_name("UDID_PARAM")));
 @property (readonly) NSString *VERSION_NAME __attribute__((swift_name("VERSION_NAME")));
 @end
 

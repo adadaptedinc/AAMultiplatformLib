@@ -1,134 +1,134 @@
 [
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/btn_checkbox_to_checked_icon_null_animation.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/anim/btn_checkbox_to_checked_icon_null_animation.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/linear_indeterminate_line1_tail_interpolator.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/anim/linear_indeterminate_line1_tail_interpolator.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/linear_indeterminate_line1_head_interpolator.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/anim/linear_indeterminate_line1_head_interpolator.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/btn_radio_to_on_mtrl_dot_group_animation.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/anim/btn_radio_to_on_mtrl_dot_group_animation.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/btn_radio_to_off_mtrl_dot_group_animation.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/anim/btn_radio_to_off_mtrl_dot_group_animation.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/design_snackbar_in.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/anim/design_snackbar_in.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/m3_motion_fade_enter.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/anim/m3_motion_fade_enter.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/anim/abc_slide_out_bottom.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/abc_tooltip_exit.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/anim/abc_tooltip_exit.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/btn_radio_to_on_mtrl_dot_group_animation.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/anim/btn_radio_to_on_mtrl_dot_group_animation.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/design_snackbar_out.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/anim/design_snackbar_out.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/abc_popup_enter.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/anim/abc_popup_enter.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/mtrl_card_lowers_interpolator.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/anim/mtrl_card_lowers_interpolator.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/abc_fade_out.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/anim/abc_fade_out.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/btn_checkbox_to_unchecked_icon_null_animation.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/anim/btn_checkbox_to_unchecked_icon_null_animation.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/anim/abc_slide_in_bottom.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/linear_indeterminate_line1_tail_interpolator.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/anim/linear_indeterminate_line1_tail_interpolator.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/abc_slide_out_top.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/anim/abc_slide_out_top.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/abc_slide_in_top.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/anim/abc_slide_in_top.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/design_snackbar_out.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/anim/design_snackbar_out.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/abc_slide_out_bottom.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/anim/abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/abc_tooltip_enter.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/anim/abc_tooltip_enter.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/m3_motion_fade_exit.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/anim/m3_motion_fade_exit.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/abc_fade_out.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/anim/abc_fade_out.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/linear_indeterminate_line2_head_interpolator.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/anim/linear_indeterminate_line2_head_interpolator.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/abc_popup_exit.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/anim/abc_popup_exit.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/abc_popup_exit.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/anim/abc_popup_exit.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/btn_checkbox_to_checked_icon_null_animation.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/anim/btn_checkbox_to_checked_icon_null_animation.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/abc_fade_in.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/anim/abc_fade_in.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/abc_popup_enter.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/anim/abc_popup_enter.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/abc_slide_out_top.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/anim/abc_slide_out_top.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/abc_tooltip_enter.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/anim/abc_tooltip_enter.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/abc_tooltip_exit.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/anim/abc_tooltip_exit.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/linear_indeterminate_line1_head_interpolator.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/anim/linear_indeterminate_line1_head_interpolator.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/btn_checkbox_to_unchecked_icon_null_animation.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/anim/btn_checkbox_to_unchecked_icon_null_animation.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/linear_indeterminate_line2_head_interpolator.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/anim/linear_indeterminate_line2_head_interpolator.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/m3_motion_fade_enter.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/anim/m3_motion_fade_enter.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/abc_fade_in.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/anim/abc_fade_in.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/m3_motion_fade_exit.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/anim/m3_motion_fade_exit.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/design_snackbar_in.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/anim/design_snackbar_in.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/linear_indeterminate_line2_tail_interpolator.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/anim/linear_indeterminate_line2_tail_interpolator.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/abc_slide_in_top.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/anim/abc_slide_in_top.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/mtrl_card_lowers_interpolator.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/anim/mtrl_card_lowers_interpolator.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/linear_indeterminate_line2_tail_interpolator.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/anim/linear_indeterminate_line2_tail_interpolator.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/anim/btn_radio_to_off_mtrl_dot_group_animation.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/anim/btn_radio_to_off_mtrl_dot_group_animation.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/anim/abc_slide_in_bottom.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/anim/abc_slide_in_bottom.xml"
     }
 ]

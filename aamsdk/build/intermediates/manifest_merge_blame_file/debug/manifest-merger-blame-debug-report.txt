@@ -3,10 +3,10 @@
 3    package="com.adadapted.library" >
 4
 5    <uses-sdk android:minSdkVersion="28" />
-5-->/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml
+5-->/Users/matthewkruk/Documents/MultiplatfomLib/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml
 6
 7    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
-7-->/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml:3:5-78
-7-->/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml:3:22-76
+7-->/Users/matthewkruk/Documents/MultiplatfomLib/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml:3:5-78
+7-->/Users/matthewkruk/Documents/MultiplatfomLib/AAMultiplatformLib/aamsdk/src/androidMain/AndroidManifest.xml:3:22-76
 8
 9</manifest>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.adadapted.library.sessionTests.SessionClientTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-08-30T16:03:40" hostname="MatthewdAdapted.attlocal.net" time="0.044">
+  <properties/>
+  <testcase name="onNewAdsLoaded" classname="com.adadapted.library.sessionTests.SessionClientTest" time="0.023"/>
+  <testcase name="onSessionInitializeFailed" classname="com.adadapted.library.sessionTests.SessionClientTest" time="0.01"/>
+  <testcase name="onNewAdsLoadFailed" classname="com.adadapted.library.sessionTests.SessionClientTest" time="0.003"/>
+  <testcase name="removeListener" classname="com.adadapted.library.sessionTests.SessionClientTest" time="0.001"/>
+  <testcase name="start" classname="com.adadapted.library.sessionTests.SessionClientTest" time="0.001"/>
+  <testcase name="addListener" classname="com.adadapted.library.sessionTests.SessionClientTest" time="0.001"/>
+  <testcase name="addRemovePresenter" classname="com.adadapted.library.sessionTests.SessionClientTest" time="0.001"/>
+  <testcase name="createInstance" classname="com.adadapted.library.sessionTests.SessionClientTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

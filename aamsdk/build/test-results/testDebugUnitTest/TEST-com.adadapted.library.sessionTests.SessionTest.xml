@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.adadapted.library.sessionTests.SessionTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-08-30T16:03:40" hostname="MatthewdAdapted.attlocal.net" time="0.009">
+  <properties/>
+  <testcase name="sessionHasCampaigns" classname="com.adadapted.library.sessionTests.SessionTest" time="0.001"/>
+  <testcase name="sessionDoesNotHaveZoneAds" classname="com.adadapted.library.sessionTests.SessionTest" time="0.001"/>
+  <testcase name="constructSession" classname="com.adadapted.library.sessionTests.SessionTest" time="0.0"/>
+  <testcase name="sessionIsExpired" classname="com.adadapted.library.sessionTests.SessionTest" time="0.001"/>
+  <testcase name="sessionHasZoneAds" classname="com.adadapted.library.sessionTests.SessionTest" time="0.005"/>
+  <testcase name="sessionWillNotServeAds" classname="com.adadapted.library.sessionTests.SessionTest" time="0.0"/>
+  <testcase name="emptySessionCreated" classname="com.adadapted.library.sessionTests.SessionTest" time="0.001"/>
+  <testcase name="sessionSetsAndRetrievesZones" classname="com.adadapted.library.sessionTests.SessionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

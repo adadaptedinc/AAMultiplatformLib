@@ -1,38 +1,38 @@
 [
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/color-v23/abc_tint_seek_thumb.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/color-v23/abc_tint_seek_thumb.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/color-v23/abc_tint_edittext.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/color-v23/abc_tint_edittext.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/color-v23/abc_tint_btn_checkable.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/color-v23/abc_tint_btn_checkable.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/color-v23/abc_tint_switch_track.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/color-v23/abc_tint_switch_track.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/color-v23/abc_tint_switch_track.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/color-v23/abc_tint_switch_track.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/color-v23/abc_color_highlight_material.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/color-v23/abc_color_highlight_material.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/color-v23/abc_color_highlight_material.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/color-v23/abc_color_highlight_material.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/color-v23/abc_tint_spinner.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/color-v23/abc_tint_spinner.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/color-v23/abc_tint_spinner.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/color-v23/abc_tint_spinner.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/color-v23/abc_btn_colored_text_material.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/color-v23/abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/color-v23/abc_btn_colored_text_material.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/color-v23/abc_btn_colored_text_material.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/color-v23/abc_tint_default.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/color-v23/abc_tint_default.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/color-v23/abc_tint_default.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/color-v23/abc_tint_default.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/color-v23/abc_tint_btn_checkable.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/color-v23/abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/color-v23/abc_btn_colored_borderless_text_material.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/color-v23/abc_tint_edittext.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/color-v23/abc_tint_edittext.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/color-v23/abc_tint_seek_thumb.xml",
+        "source": "com.adadapted.library.aamsdk-appcompat-1.5.0-20:/color-v23/abc_tint_seek_thumb.xml"
     }
 ]

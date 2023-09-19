@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-large-v4/values-large-v4.xml",
+            "outputFile": "com.adadapted.library.aamsdk-merged_res-29:/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/values-large-v4/values-large-v4.xml",
+                    "source": "/Users/matthewkruk/.gradle/caches/transforms-3/d92cbbf4344903c58612927fa10ce020/transformed/appcompat-1.5.0/res/values-large-v4/values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/values-large-v4/values-large-v4.xml",
+                    "source": "/Users/matthewkruk/.gradle/caches/transforms-3/a57106c0a21ee393ec128a66e484c8a4/transformed/material-1.9.0/res/values-large-v4/values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,10",
                         "startColumns": "4,4,4,4",
@@ -35,10 +35,10 @@
             ]
         },
         {
-            "outputFile": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/values-large-v4/values-large-v4.xml",
+            "outputFile": "com.adadapted.library.aamsdk-mergeReleaseResources-27:/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/values-large-v4/values-large-v4.xml",
+                    "source": "/Users/matthewkruk/.gradle/caches/transforms-3/d92cbbf4344903c58612927fa10ce020/transformed/appcompat-1.5.0/res/values-large-v4/values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -48,7 +48,7 @@
                     }
                 },
                 {
-                    "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/values-large-v4/values-large-v4.xml",
+                    "source": "/Users/matthewkruk/.gradle/caches/transforms-3/a57106c0a21ee393ec128a66e484c8a4/transformed/material-1.9.0/res/values-large-v4/values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,10",
                         "startColumns": "4,4,4,4",

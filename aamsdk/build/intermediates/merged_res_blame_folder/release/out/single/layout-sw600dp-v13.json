@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/layout-sw600dp-v13/design_layout_snackbar.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/layout-sw600dp-v13/design_layout_snackbar.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
     }
 ]

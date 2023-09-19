@@ -1,86 +1,86 @@
 [
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/color-v31/m3_dynamic_default_color_secondary_text.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/color-v31/m3_dynamic_default_color_secondary_text.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/color-v31/m3_ref_palette_dynamic_neutral98.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/color-v31/m3_ref_palette_dynamic_neutral98.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/color-v31/m3_ref_palette_dynamic_neutral17.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/color-v31/m3_ref_palette_dynamic_neutral17.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/color-v31/m3_ref_palette_dynamic_neutral17.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/color-v31/m3_ref_palette_dynamic_neutral17.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/color-v31/m3_ref_palette_dynamic_neutral98.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/color-v31/m3_ref_palette_dynamic_neutral98.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/color-v31/m3_ref_palette_dynamic_neutral87.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/color-v31/m3_ref_palette_dynamic_neutral87.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/color-v31/m3_ref_palette_dynamic_neutral4.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/color-v31/m3_ref_palette_dynamic_neutral4.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/color-v31/m3_ref_palette_dynamic_neutral6.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/color-v31/m3_ref_palette_dynamic_neutral6.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/color-v31/m3_dynamic_hint_foreground.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/color-v31/m3_dynamic_hint_foreground.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/color-v31/m3_dynamic_highlighted_text.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/color-v31/m3_dynamic_highlighted_text.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/color-v31/m3_dynamic_dark_default_color_primary_text.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/color-v31/m3_dynamic_dark_default_color_primary_text.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/color-v31/m3_dynamic_dark_default_color_primary_text.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/color-v31/m3_dynamic_dark_default_color_primary_text.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/color-v31/m3_ref_palette_dynamic_neutral24.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/color-v31/m3_ref_palette_dynamic_neutral24.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/color-v31/m3_ref_palette_dynamic_neutral22.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/color-v31/m3_ref_palette_dynamic_neutral22.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/color-v31/m3_dynamic_primary_text_disable_only.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/color-v31/m3_dynamic_primary_text_disable_only.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/color-v31/m3_ref_palette_dynamic_neutral96.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/color-v31/m3_ref_palette_dynamic_neutral96.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/color-v31/m3_ref_palette_dynamic_neutral87.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/color-v31/m3_ref_palette_dynamic_neutral87.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/color-v31/m3_ref_palette_dynamic_neutral24.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/color-v31/m3_ref_palette_dynamic_neutral24.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/color-v31/m3_ref_palette_dynamic_neutral92.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/color-v31/m3_ref_palette_dynamic_neutral92.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/color-v31/m3_dynamic_primary_text_disable_only.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/color-v31/m3_dynamic_primary_text_disable_only.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/color-v31/m3_dynamic_default_color_primary_text.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/color-v31/m3_dynamic_default_color_primary_text.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/color-v31/m3_dynamic_default_color_secondary_text.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/color-v31/m3_dynamic_default_color_secondary_text.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/color-v31/m3_dynamic_dark_hint_foreground.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/color-v31/m3_dynamic_dark_hint_foreground.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/color-v31/m3_ref_palette_dynamic_neutral12.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/color-v31/m3_ref_palette_dynamic_neutral12.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/color-v31/m3_ref_palette_dynamic_neutral6.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/color-v31/m3_ref_palette_dynamic_neutral6.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/color-v31/m3_dynamic_dark_primary_text_disable_only.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/color-v31/m3_dynamic_dark_primary_text_disable_only.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/color-v31/m3_dynamic_highlighted_text.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/color-v31/m3_dynamic_highlighted_text.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/color-v31/m3_dynamic_dark_highlighted_text.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/color-v31/m3_dynamic_dark_highlighted_text.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/color-v31/m3_dynamic_dark_primary_text_disable_only.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/color-v31/m3_dynamic_dark_primary_text_disable_only.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/color-v31/m3_ref_palette_dynamic_neutral94.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/color-v31/m3_ref_palette_dynamic_neutral94.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/color-v31/m3_ref_palette_dynamic_neutral12.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/color-v31/m3_ref_palette_dynamic_neutral12.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/color-v31/m3_dynamic_dark_hint_foreground.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/color-v31/m3_dynamic_dark_hint_foreground.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/color-v31/m3_ref_palette_dynamic_neutral94.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/color-v31/m3_ref_palette_dynamic_neutral94.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/color-v31/m3_dynamic_hint_foreground.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/color-v31/m3_dynamic_hint_foreground.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/color-v31/m3_ref_palette_dynamic_neutral22.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/color-v31/m3_ref_palette_dynamic_neutral22.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/color-v31/m3_dynamic_dark_default_color_secondary_text.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/color-v31/m3_dynamic_dark_default_color_secondary_text.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/color-v31/m3_dynamic_dark_highlighted_text.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/color-v31/m3_dynamic_dark_highlighted_text.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/color-v31/m3_ref_palette_dynamic_neutral92.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/color-v31/m3_ref_palette_dynamic_neutral92.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/color-v31/m3_dynamic_dark_default_color_secondary_text.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/color-v31/m3_dynamic_dark_default_color_secondary_text.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/color-v31/m3_dynamic_default_color_primary_text.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/color-v31/m3_dynamic_default_color_primary_text.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/color-v31/m3_ref_palette_dynamic_neutral96.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/color-v31/m3_ref_palette_dynamic_neutral96.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/color-v31/m3_ref_palette_dynamic_neutral4.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/color-v31/m3_ref_palette_dynamic_neutral4.xml"
     }
 ]

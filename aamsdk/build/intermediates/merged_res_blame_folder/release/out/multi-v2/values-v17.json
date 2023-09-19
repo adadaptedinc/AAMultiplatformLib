@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/values-v17/values-v17.xml",
+            "outputFile": "com.adadapted.library.aamsdk-merged_res-29:/values-v17/values-v17.xml",
             "map": [
                 {
-                    "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/values-v17/values-v17.xml",
+                    "source": "/Users/matthewkruk/.gradle/caches/transforms-3/d92cbbf4344903c58612927fa10ce020/transformed/appcompat-1.5.0/res/values-v17/values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,25,29,33,37,40,43,46,50,53,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -17,10 +17,10 @@
             ]
         },
         {
-            "outputFile": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v17/values-v17.xml",
+            "outputFile": "com.adadapted.library.aamsdk-mergeReleaseResources-27:/values-v17/values-v17.xml",
             "map": [
                 {
-                    "source": "/Users/bclifton/.gradle/caches/transforms-3/902316c6f2776967ee6113d4f9b915d1/transformed/appcompat-1.5.0/res/values-v17/values-v17.xml",
+                    "source": "/Users/matthewkruk/.gradle/caches/transforms-3/d92cbbf4344903c58612927fa10ce020/transformed/appcompat-1.5.0/res/values-v17/values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,25,29,33,37,40,43,46,50,53,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

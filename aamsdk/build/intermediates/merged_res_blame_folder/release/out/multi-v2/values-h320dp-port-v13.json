@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "outputFile": "com.adadapted.library.aamsdk-merged_res-29:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
             "map": [
                 {
-                    "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+                    "source": "/Users/matthewkruk/.gradle/caches/transforms-3/a57106c0a21ee393ec128a66e484c8a4/transformed/material-1.9.0/res/values-h320dp-port-v13/values-h320dp-port-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "outputFile": "com.adadapted.library.aamsdk-mergeReleaseResources-27:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
             "map": [
                 {
-                    "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+                    "source": "/Users/matthewkruk/.gradle/caches/transforms-3/a57106c0a21ee393ec128a66e484c8a4/transformed/material-1.9.0/res/values-h320dp-port-v13/values-h320dp-port-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

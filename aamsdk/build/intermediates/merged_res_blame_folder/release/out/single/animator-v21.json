@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/animator-v21/design_appbar_state_list_animator.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/animator-v21/design_appbar_state_list_animator.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/animator-v21/m3_appbar_state_list_animator.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/animator-v21/m3_appbar_state_list_animator.xml"
     },
     {
-        "merged": "/Users/bclifton/Documents/GitHub/AAMultiplatformLib/aamsdk/build/intermediates/merged_res/release/animator-v21/m3_appbar_state_list_animator.xml",
-        "source": "/Users/bclifton/.gradle/caches/transforms-3/5c227edc4653c27259a65bffe01e1fe7/transformed/material-1.9.0/res/animator-v21/m3_appbar_state_list_animator.xml"
+        "merged": "com.adadapted.library.aamsdk-merged_res-29:/animator-v21/design_appbar_state_list_animator.xml",
+        "source": "com.adadapted.library.aamsdk-material-1.9.0-17:/animator-v21/design_appbar_state_list_animator.xml"
     }
 ]
