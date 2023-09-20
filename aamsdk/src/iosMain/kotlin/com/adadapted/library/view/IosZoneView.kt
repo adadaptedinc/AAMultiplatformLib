@@ -9,10 +9,14 @@ import com.adadapted.library.interfaces.WebViewListener
 import com.adadapted.library.interfaces.ZoneViewListener
 import com.adadapted.library.log.AALogger
 import com.adadapted.library.session.SessionClient
+import kotlinx.cinterop.CValue
 import kotlinx.cinterop.ObjCAction
 import kotlinx.cinterop.cValue
+import platform.CoreGraphics.CGPoint
+import platform.CoreGraphics.CGPointMake
 import platform.CoreGraphics.CGRectZero
 import platform.Foundation.*
+import platform.QuartzCore.CAShapeLayer
 import platform.UIKit.*
 import platform.objc.sel_registerName
 
@@ -29,11 +33,33 @@ class IosZoneView : UIView(frame = cValue { CGRectZero }) {
     init {
         this.webView.addWebViewListener(setWebViewListener())
         reportAdView.addTarget(this, sel_registerName("reportAdTapped"), UIControlEventTouchUpInside)
-        reportAdView.layer.backgroundColor = UIColor.cyanColor().CGColor()
-        reportAdView.layer.borderColor = UIColor.blackColor().CGColor()
-        reportAdView.layer.borderWidth = 1.5
-        webView.layer.borderColor = UIColor.blueColor().CGColor()
-        webView.layer.borderWidth = 1.5
+//        reportAdView.layer.backgroundColor = UIColor.whiteColor().CGColor()
+//        reportAdView.layer.borderColor = UIColor.cyanColor().CGColor()
+//        reportAdView.layer.borderWidth = 1.5
+        reportAdView.setTitleColor(UIColor.cyanColor, UIControlStateNormal)
+        reportAdView.setTitle("¡", UIControlStateNormal)
+
+        var trianglePath = UIBezierPath()
+        var triangleLayer = CAShapeLayer()
+        trianglePath.moveToPoint(CGPointMake(0.0, 20.0))
+        trianglePath.addLineToPoint(CGPointMake(10.0, 0.0))
+        trianglePath.addLineToPoint(CGPointMake(20.0, 20.0))
+        trianglePath.addLineToPoint(CGPointMake(0.0, 20.0))
+        trianglePath.closePath()
+
+        triangleLayer.path = trianglePath.CGPath()
+        triangleLayer.borderColor = UIColor.cyanColor().CGColor()
+        triangleLayer.borderWidth = 1.5
+        triangleLayer.layoutIfNeeded()
+        triangleLayer.strokeColor = UIColor.cyanColor().CGColor()
+        triangleLayer.lineWidth = 1.5
+
+        reportAdView.layer.addSublayer(triangleLayer)
+
+
+        //reportAdView.setImage(UIImage(named: "reportAdIcon", in: Bundle(for: AAZoneView.self), compatibleWith: nil), for: .normal)
+//        webView.layer.borderColor = UIColor.blueColor().CGColor()
+//        webView.layer.borderWidth = 1.5
         addSubview(webView)
         addSubview(reportAdView)
         setupConstraints()
@@ -168,8 +194,8 @@ class IosZoneView : UIView(frame = cValue { CGRectZero }) {
         constraints.add(webView.centerXAnchor.constraintEqualToAnchor(centerXAnchor))
         constraints.add(reportAdView.topAnchor.constraintEqualToAnchor(webView.topAnchor, 10.0))
         constraints.add(reportAdView.trailingAnchor.constraintEqualToAnchor(webView.trailingAnchor, -10.0))
-        constraints.add(reportAdView.widthAnchor.constraintEqualToConstant(14.0))
-        constraints.add(reportAdView.heightAnchor.constraintEqualToConstant(14.0))
+        constraints.add(reportAdView.widthAnchor.constraintEqualToConstant(40.0))
+        constraints.add(reportAdView.heightAnchor.constraintEqualToConstant(40.0))
         reportAdView.translatesAutoresizingMaskIntoConstraints = false
         reportAdView.clipsToBounds = true
         reportAdView.contentMode = UIViewContentMode.UIViewContentModeScaleAspectFill
