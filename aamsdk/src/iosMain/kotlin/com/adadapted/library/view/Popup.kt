@@ -5,12 +5,15 @@ import com.adadapted.library.ad.AdContent
 import com.adadapted.library.atl.AddItContentPublisher
 import com.adadapted.library.atl.AddToListItem
 import com.adadapted.library.atl.PopupContent
+import com.adadapted.library.constants.Config
 import com.adadapted.library.constants.EventStrings
 import com.adadapted.library.constraintsToFillSuperview
 import com.adadapted.library.event.EventClient
 import com.adadapted.library.helpers.Base64.base64decoded
 import com.adadapted.library.log.AALogger
 import com.adadapted.library.nsDataUTF8
+import io.ktor.client.request.*
+import io.ktor.http.*
 import kotlinx.cinterop.ExportObjCClass
 import kotlinx.cinterop.ObjCAction
 import kotlinx.cinterop.cValue
@@ -66,12 +69,38 @@ class Popup : UIViewController,
         }
     }
 
+    constructor(adId: String, udid: String) : super(nibName = null, bundle = null) {
+        view.translatesAutoresizingMaskIntoConstraints = false
+        setupWebView()
+        setupDoneButton()
+
+        val urlComponents = NSURLComponents(Config.getAdReportingHost())
+        val queryItems = ArrayList<NSURLQueryItem>()
+        queryItems.add(NSURLQueryItem("aid", urlEncoded(adId)))
+        queryItems.add(NSURLQueryItem("uid", udid))
+        urlComponents.queryItems = queryItems
+
+        val request = urlComponents.URL?.let { NSURLRequest(uRL = it) }
+        if (request != null) {
+            webView.loadRequest(request)
+        }
+        presentExternalLink()
+    }
+
     override fun viewDidLoad() {
         super.viewDidLoad()
         view.addSubview(webView)
         view.addSubview(doneButton)
         setupConstraints()
         webView.setNeedsDisplay()
+    }
+
+    private fun urlEncoded(string: String) : String {
+        val set = NSCharacterSet.letterCharacterSet().mutableCopy() as NSMutableCharacterSet
+        set.addCharactersInString("1234567890")
+        return NSString.create(string=string).stringByAddingPercentEncodingWithAllowedCharacters(
+            allowedCharacters = set
+        ) ?: ""
     }
 
     private fun presentPopup() {
@@ -211,6 +240,10 @@ class Popup : UIViewController,
 
     override fun webView(webView: WKWebView, didCommitNavigation: WKNavigation?) {
         //forced override
+    }
+
+    override fun webViewDidClose(webView: WKWebView) {
+        this.dismissViewControllerAnimated(true, completion = null)
     }
 
     // WKWebView Navigation Delegate

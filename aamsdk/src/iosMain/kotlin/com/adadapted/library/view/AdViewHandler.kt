@@ -15,16 +15,6 @@ actual class AdViewHandler {
     }
 
     actual fun handleReportAd(adId: String, udid: String) {
-        println(buildReportAdUrl(adId, udid))
-    }
-
-    private fun buildReportAdUrl(adId: String, udid: String): Url {
-        val builder = HttpRequestBuilder()
-        builder.url {
-            path(Config.getAdReportingHost())
-            parameters.append(Config.AD_ID_PARAM, adId)
-            parameters.append(Config.UDID_PARAM, udid)
-        }
-        return builder.build().url
+        Popup(adId = adId, udid = udid)
     }
 }
