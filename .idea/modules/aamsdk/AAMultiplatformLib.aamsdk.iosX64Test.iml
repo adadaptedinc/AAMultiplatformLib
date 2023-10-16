@@ -13,11 +13,12 @@
         </sourceSets>
         <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
         <externalSystemTestTasks>
-          <externalSystemTestTask>iosX64Test|:aamsdk|iosX64</externalSystemTestTask>
+          <externalSystemTestTask>iosX64Test|:aamsdk|iosX64|native</externalSystemTestTask>
         </externalSystemTestTasks>
         <compilerSettings />
         <compilerArguments>
           <flagArguments>
+            <flagArg name="noendorsedlibs" arg="true" />
             <flagArg name="multiPlatform" arg="true" />
           </flagArguments>
           <stringArguments>

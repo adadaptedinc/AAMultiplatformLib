@@ -15,6 +15,7 @@
         <compilerSettings />
         <compilerArguments>
           <flagArguments>
+            <flagArg name="noendorsedlibs" arg="true" />
             <flagArg name="multiPlatform" arg="true" />
           </flagArguments>
           <stringArguments>
